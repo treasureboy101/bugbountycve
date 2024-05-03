@@ -28,7168 +28,5803 @@
         "link": "https://hackerone.com/reports/2334401"
     },
     {
-        "id": 0,
         "cveid": "CVE-2016-9124",
         "link": "https://hackerone.com/reports/96115"
     },
     {
-        "id": 3,
         "cveid": "CVE-2024-1084",
         "link": "https://hackerone.com/reports/2246576"
     },
     {
-        "id": 8,
         "cveid": "CVE-2024-27983",
         "link": "https://hackerone.com/reports/2319584"
     },
     {
-        "id": 14,
         "cveid": "CVE-2024-27281",
         "link": "https://hackerone.com/reports/2438265"
     },
     {
-        "id": 15,
         "cveid": "CVE-2024-24806",
         "link": "https://hackerone.com/reports/2429894"
     },
     {
-        "id": 16,
         "cveid": "CVE-2024-2466",
         "link": "https://hackerone.com/reports/2435482"
     },
     {
-        "id": 17,
         "cveid": "CVE-2024-2379",
         "link": "https://hackerone.com/reports/2437050"
     },
     {
-        "id": 18,
         "cveid": "CVE-2024-2004",
         "link": "https://hackerone.com/reports/2437131"
     },
     {
-        "id": 21,
         "cveid": "CVE-2024-2004",
         "link": "https://hackerone.com/reports/2384833"
     },
     {
-        "id": 24,
         "cveid": "CVE-2016-3739",
         "link": "https://hackerone.com/reports/2416725"
     },
     {
-        "id": 25,
         "cveid": "CVE-2024-2398",
         "link": "https://hackerone.com/reports/2402845"
     },
     {
-        "id": 26,
         "cveid": "CVE-2024-2379",
         "link": "https://hackerone.com/reports/2410774"
     },
     {
-        "id": 39,
         "cveid": "CVE-2017-0255",
         "link": "https://hackerone.com/reports/1794757"
     },
     {
-        "id": 49,
         "cveid": "CVE-2023-6803",
         "link": "https://hackerone.com/reports/2190827"
     },
     {
-        "id": 56,
         "cveid": "CVE-2024-24758",
         "link": "https://hackerone.com/reports/2390009"
     },
     {
-        "id": 65,
         "cveid": "CVE-2024-22019",
         "link": "https://hackerone.com/reports/2375446"
     },
     {
-        "id": 67,
         "cveid": "CVE-2022-21371",
         "link": "https://hackerone.com/reports/2387600"
     },
     {
-        "id": 73,
         "cveid": "CVE-2023-6004",
         "link": "https://hackerone.com/reports/2293731"
     },
     {
-        "id": 86,
         "cveid": "CVE-2024-22403",
         "link": "https://hackerone.com/reports/1784162"
     },
     {
-        "id": 87,
         "cveid": "CVE-2024-22404",
         "link": "https://hackerone.com/reports/2247457"
     },
     {
-        "id": 90,
         "cveid": "CVE-2009-3555",
         "link": "https://hackerone.com/reports/300817"
     },
     {
-        "id": 91,
         "cveid": "CVE-2024-21896",
         "link": "https://hackerone.com/reports/2218653"
     },
     {
-        "id": 92,
         "cveid": "CVE-2024-21890",
         "link": "https://hackerone.com/reports/2257156"
     },
     {
-        "id": 93,
         "cveid": "CVE-2024-21892",
         "link": "https://hackerone.com/reports/2237545"
     },
     {
-        "id": 94,
         "cveid": "CVE-2023-46809",
         "link": "https://hackerone.com/reports/2269177"
     },
     {
-        "id": 95,
         "cveid": "CVE-2024-22019",
         "link": "https://hackerone.com/reports/2233486"
     },
     {
-        "id": 96,
         "cveid": "CVE-2024-21891",
         "link": "https://hackerone.com/reports/2259914"
     },
     {
-        "id": 103,
         "cveid": "CVE-2018-6389",
         "link": "https://hackerone.com/reports/2334446"
     },
     {
-        "id": 115,
         "cveid": "CVE-2023-45648",
         "link": "https://hackerone.com/reports/2299692"
     },
     {
-        "id": 116,
         "cveid": "CVE-2023-32333",
         "link": "https://hackerone.com/reports/1933304"
     },
     {
-        "id": 125,
         "cveid": "CVE-2024-0853",
         "link": "https://hackerone.com/reports/2298922"
     },
     {
-        "id": 132,
         "cveid": "CVE-2024-21733",
         "link": "https://hackerone.com/reports/2327341"
     },
     {
-        "id": 148,
         "cveid": "CVE-2023-44402",
         "link": "https://hackerone.com/reports/2271095"
     },
     {
-        "id": 149,
         "cveid": "CVE-2023-45143",
         "link": "https://hackerone.com/reports/2243710"
     },
     {
-        "id": 150,
         "cveid": "CVE-2023-39332",
         "link": "https://hackerone.com/reports/2256167"
     },
     {
-        "id": 155,
         "cveid": "CVE-2024-22212",
         "link": "https://hackerone.com/reports/2248689"
     },
     {
-        "id": 156,
         "cveid": "CVE-2024-22402",
         "link": "https://hackerone.com/reports/2251074"
     },
     {
-        "id": 157,
         "cveid": "CVE-2024-22401",
         "link": "https://hackerone.com/reports/2250398"
     },
     {
-        "id": 158,
         "cveid": "CVE-2024-22400",
         "link": "https://hackerone.com/reports/2263044"
     },
     {
-        "id": 159,
         "cveid": "CVE-2024-22213",
         "link": "https://hackerone.com/reports/2058556"
     },
     {
-        "id": 164,
         "cveid": "CVE-2023-49791",
         "link": "https://hackerone.com/reports/2120667"
     },
     {
-        "id": 168,
         "cveid": "CVE-2023-46648",
         "link": "https://hackerone.com/reports/2197801"
     },
     {
-        "id": 169,
         "cveid": "CVE-2023-6690",
         "link": "https://hackerone.com/reports/2216036"
     },
     {
-        "id": 174,
         "cveid": "CVE-2023-48307",
         "link": "https://hackerone.com/reports/1869714"
     },
     {
-        "id": 177,
         "cveid": "CVE-2023-49920",
         "link": "https://hackerone.com/reports/2294709"
     },
     {
-        "id": 178,
         "cveid": "CVE-2023-46132",
         "link": "https://hackerone.com/reports/2255968"
     },
     {
-        "id": 179,
         "cveid": "CVE-2023-46646",
         "link": "https://hackerone.com/reports/2210179"
     },
     {
-        "id": 180,
         "cveid": "CVE-2023-46647",
         "link": "https://hackerone.com/reports/2197796"
     },
     {
-        "id": 187,
         "cveid": "CVE-2023-51380",
         "link": "https://hackerone.com/reports/2184950"
     },
     {
-        "id": 188,
         "cveid": "CVE-2023-51379",
         "link": "https://hackerone.com/reports/2209433"
     },
     {
-        "id": 192,
         "cveid": "CVE-2023-48306",
         "link": "https://hackerone.com/reports/2115212"
     },
     {
-        "id": 199,
         "cveid": "CVE-2023-46218",
         "link": "https://hackerone.com/reports/2274981"
     },
     {
-        "id": 200,
         "cveid": "CVE-2022-4304",
         "link": "https://hackerone.com/reports/2270225"
     },
     {
-        "id": 202,
         "cveid": "CVE-2021-26084",
         "link": "https://hackerone.com/reports/1327769"
     },
     {
-        "id": 204,
         "cveid": "CVE-2021-26084",
         "link": "https://hackerone.com/reports/1327701"
     },
     {
-        "id": 210,
         "cveid": "CVE-2023-26360",
         "link": "https://hackerone.com/reports/2248781"
     },
     {
-        "id": 213,
         "cveid": "CVE-2023-48302",
         "link": "https://hackerone.com/reports/2211561"
     },
     {
-        "id": 214,
         "cveid": "CVE-2023-48303",
         "link": "https://hackerone.com/reports/2107934"
     },
     {
-        "id": 218,
         "cveid": "CVE-2023-49790",
         "link": "https://hackerone.com/reports/2245437"
     },
     {
-        "id": 223,
         "cveid": "CVE-2023-28755",
         "link": "https://hackerone.com/reports/1444501"
     },
     {
-        "id": 228,
         "cveid": "CVE-2023-2982",
         "link": "https://hackerone.com/reports/2269989"
     },
     {
-        "id": 230,
         "cveid": "CVE-2023-46219",
         "link": "https://hackerone.com/reports/2236133"
     },
     {
-        "id": 235,
         "cveid": "CVE-2023-46218",
         "link": "https://hackerone.com/reports/2212193"
     },
     {
-        "id": 236,
         "cveid": "CVE-2023-23762",
         "link": "https://hackerone.com/reports/1831528"
     },
     {
-        "id": 238,
         "cveid": "CVE-2023-38552",
         "link": "https://hackerone.com/reports/2208860"
     },
     {
-        "id": 243,
         "cveid": "CVE-2023-39331",
         "link": "https://hackerone.com/reports/2225660"
     },
     {
-        "id": 244,
         "cveid": "CVE-2023-32002",
         "link": "https://hackerone.com/reports/2188126"
     },
     {
-        "id": 245,
         "cveid": "CVE-2023-47037",
         "link": "https://hackerone.com/reports/2249299"
     },
     {
-        "id": 246,
         "cveid": "CVE-2023-46695",
         "link": "https://hackerone.com/reports/2258758"
     },
     {
-        "id": 247,
         "cveid": "CVE-2023-23766",
         "link": "https://hackerone.com/reports/2017600"
     },
     {
-        "id": 248,
         "cveid": "CVE-2023-42780",
         "link": "https://hackerone.com/reports/2208647"
     },
     {
-        "id": 249,
         "cveid": "CVE-2023-40712",
         "link": "https://hackerone.com/reports/2209665"
     },
     {
-        "id": 257,
         "cveid": "CVE-2007-6750",
         "link": "https://hackerone.com/reports/268320"
     },
     {
-        "id": 264,
         "cveid": "CVE-2021-25742",
         "link": "https://hackerone.com/reports/1728174"
     },
     {
-        "id": 267,
         "cveid": "CVE-2023-38546",
         "link": "https://hackerone.com/reports/2215578"
     },
     {
-        "id": 270,
         "cveid": "CVE-2023-48305",
         "link": "https://hackerone.com/reports/2101165"
     },
     {
-        "id": 271,
         "cveid": "CVE-2023-48239",
         "link": "https://hackerone.com/reports/2212627"
     },
     {
-        "id": 272,
         "cveid": "CVE-2023-48301",
         "link": "https://hackerone.com/reports/2210038"
     },
     {
-        "id": 275,
         "cveid": "CVE-2023-3580",
         "link": "https://hackerone.com/reports/2233421"
     },
     {
-        "id": 276,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/2233418"
     },
     {
-        "id": 283,
         "cveid": "CVE-2023-45151",
         "link": "https://hackerone.com/reports/1994324"
     },
     {
-        "id": 285,
         "cveid": "CVE-2023-42663",
         "link": "https://hackerone.com/reports/2208656"
     },
     {
-        "id": 289,
         "cveid": "CVE-2023-45149",
         "link": "https://hackerone.com/reports/2094473"
     },
     {
-        "id": 290,
         "cveid": "CVE-2023-45148",
         "link": "https://hackerone.com/reports/2110945"
     },
     {
-        "id": 306,
         "cveid": "CVE-2023-40611",
         "link": "https://hackerone.com/reports/2144868"
     },
     {
-        "id": 313,
         "cveid": "CVE-2023-5044",
         "link": "https://hackerone.com/reports/2039464"
     },
     {
-        "id": 330,
         "cveid": "CVE-2023-45150",
         "link": "https://hackerone.com/reports/2058337"
     },
     {
-        "id": 331,
         "cveid": "CVE-2023-45660",
         "link": "https://hackerone.com/reports/1895874"
     },
     {
-        "id": 340,
         "cveid": "CVE-2023-40273",
         "link": "https://hackerone.com/reports/2121960"
     },
     {
-        "id": 345,
         "cveid": "CVE-2023-39957",
         "link": "https://hackerone.com/reports/1997029"
     },
     {
-        "id": 349,
         "cveid": "CVE-2023-39960",
         "link": "https://hackerone.com/reports/1924212"
     },
     {
-        "id": 353,
         "cveid": "CVE-2023-39958",
         "link": "https://hackerone.com/reports/1258448"
     },
     {
-        "id": 354,
         "cveid": "CVE-2023-30589",
         "link": "https://hackerone.com/reports/2032842"
     },
     {
-        "id": 365,
         "cveid": "CVE-2023-39961",
         "link": "https://hackerone.com/reports/1965156"
     },
     {
-        "id": 373,
         "cveid": "CVE-2023-23764",
         "link": "https://hackerone.com/reports/1938106"
     },
     {
-        "id": 380,
         "cveid": "CVE-2022-27777",
         "link": "https://hackerone.com/reports/1444151"
     },
     {
-        "id": 383,
         "cveid": "CVE-2022-22577",
         "link": "https://hackerone.com/reports/1327196"
     },
     {
-        "id": 385,
         "cveid": "CVE-2022-30122",
         "link": "https://hackerone.com/reports/1489141"
     },
     {
-        "id": 386,
         "cveid": "CVE-2023-32001",
         "link": "https://hackerone.com/reports/2078571"
     },
     {
-        "id": 389,
         "cveid": "CVE-2023-28362",
         "link": "https://hackerone.com/reports/1955370"
     },
     {
-        "id": 390,
         "cveid": "CVE-2023-32001",
         "link": "https://hackerone.com/reports/2039870"
     },
     {
-        "id": 391,
         "cveid": "CVE-2023-35172",
         "link": "https://hackerone.com/reports/1987062"
     },
     {
-        "id": 402,
         "cveid": "CVE-2023-32320",
         "link": "https://hackerone.com/reports/1918525"
     },
     {
-        "id": 407,
         "cveid": "CVE-2023-22799",
         "link": "https://hackerone.com/reports/2012135"
     },
     {
-        "id": 410,
         "cveid": "CVE-2023-28710",
         "link": "https://hackerone.com/reports/1966083"
     },
     {
-        "id": 412,
         "cveid": "CVE-2022-44571",
         "link": "https://hackerone.com/reports/2012122"
     },
     {
-        "id": 413,
         "cveid": "CVE-2022-44572",
         "link": "https://hackerone.com/reports/2012125"
     },
     {
-        "id": 414,
         "cveid": "CVE-2023-22796",
         "link": "https://hackerone.com/reports/2012131"
     },
     {
-        "id": 415,
         "cveid": "CVE-2022-44570",
         "link": "https://hackerone.com/reports/2012121"
     },
     {
-        "id": 417,
         "cveid": "CVE-2023-35173",
         "link": "https://hackerone.com/reports/1914115"
     },
     {
-        "id": 420,
         "cveid": "CVE-2023-28364",
         "link": "https://hackerone.com/reports/1946534"
     },
     {
-        "id": 427,
         "cveid": "CVE-2013-0256",
         "link": "https://hackerone.com/reports/1977168"
     },
     {
-        "id": 428,
         "cveid": "CVE-2023-30590",
         "link": "https://hackerone.com/reports/2038484"
     },
     {
-        "id": 430,
         "cveid": "CVE-2022-44268",
         "link": "https://hackerone.com/reports/1858574"
     },
     {
-        "id": 433,
         "cveid": "CVE-2023-30581",
         "link": "https://hackerone.com/reports/1877919"
     },
     {
-        "id": 439,
         "cveid": "CVE-2023-23761",
         "link": "https://hackerone.com/reports/1901040"
     },
     {
-        "id": 441,
         "cveid": "CVE-2023-35928",
         "link": "https://hackerone.com/reports/1978882"
     },
     {
-        "id": 445,
         "cveid": "CVE-2023-30590",
         "link": "https://hackerone.com/reports/1927480"
     },
     {
-        "id": 447,
         "cveid": "CVE-2022-23515",
         "link": "https://hackerone.com/reports/1694173"
     },
     {
-        "id": 449,
         "cveid": "CVE-2023-30582",
         "link": "https://hackerone.com/reports/1966499"
     },
     {
-        "id": 450,
         "cveid": "CVE-2023-30584",
         "link": "https://hackerone.com/reports/1952978"
     },
     {
-        "id": 451,
         "cveid": "CVE-2023-30587",
         "link": "https://hackerone.com/reports/1962701"
     },
     {
-        "id": 460,
         "cveid": "CVE-2023-32319",
         "link": "https://hackerone.com/reports/1879549"
     },
     {
-        "id": 462,
         "cveid": "CVE-2023-29489",
         "link": "https://hackerone.com/reports/1982630"
     },
     {
-        "id": 464,
         "cveid": "CVE-2023-30583",
         "link": "https://hackerone.com/reports/1966492"
     },
     {
-        "id": 471,
         "cveid": "CVE-2023-22482",
         "link": "https://hackerone.com/reports/1889161"
     },
     {
-        "id": 476,
         "cveid": "CVE-2022-30123",
         "link": "https://hackerone.com/reports/1411867"
     },
     {
-        "id": 481,
         "cveid": "CVE-2023-28319",
         "link": "https://hackerone.com/reports/1997312"
     },
     {
-        "id": 482,
         "cveid": "CVE-2023-33182",
         "link": "https://hackerone.com/reports/1789602"
     },
     {
-        "id": 491,
         "cveid": "CVE-2023-32074",
         "link": "https://hackerone.com/reports/1954711"
     },
     {
-        "id": 493,
         "cveid": "CVE-2022-32770",
         "link": "https://hackerone.com/reports/1844777"
     },
     {
-        "id": 495,
         "cveid": "CVE-2023-30586",
         "link": "https://hackerone.com/reports/1954535"
     },
     {
-        "id": 496,
         "cveid": "CVE-2023-35171",
         "link": "https://hackerone.com/reports/1977222"
     },
     {
-        "id": 505,
         "cveid": "CVE-2023-30589",
         "link": "https://hackerone.com/reports/2001873"
     },
     {
-        "id": 507,
         "cveid": "CVE-2023-33183",
         "link": "https://hackerone.com/reports/1841408"
     },
     {
-        "id": 520,
         "cveid": "CVE-2023-27706",
         "link": "https://hackerone.com/reports/1874155"
     },
     {
-        "id": 524,
         "cveid": "CVE-2013-5968",
         "link": "https://hackerone.com/reports/1982099"
     },
     {
-        "id": 529,
         "cveid": "CVE-2023-33184",
         "link": "https://hackerone.com/reports/1913095"
     },
     {
-        "id": 533,
         "cveid": "CVE-2023-28320",
         "link": "https://hackerone.com/reports/1990421"
     },
     {
-        "id": 535,
         "cveid": "CVE-2022-41354",
         "link": "https://hackerone.com/reports/1916583"
     },
     {
-        "id": 537,
         "cveid": "CVE-2023-28319",
         "link": "https://hackerone.com/reports/1913733"
     },
     {
-        "id": 548,
         "cveid": "CVE-2020-11022",
         "link": "https://hackerone.com/reports/1812768"
     },
     {
-        "id": 555,
         "cveid": "CVE-2023-28320",
         "link": "https://hackerone.com/reports/1929597"
     },
     {
-        "id": 556,
         "cveid": "CVE-2023-30539",
         "link": "https://hackerone.com/reports/1895976"
     },
     {
-        "id": 562,
         "cveid": "CVE-2022-38463",
         "link": "https://hackerone.com/reports/1699855"
     },
     {
-        "id": 570,
         "cveid": "CVE-2023-31145",
         "link": "https://hackerone.com/reports/1893186"
     },
     {
-        "id": 580,
         "cveid": "CVE-2023-28360",
         "link": "https://hackerone.com/reports/1848062"
     },
     {
-        "id": 581,
         "cveid": "CVE-2023-28359",
         "link": "https://hackerone.com/reports/1757676"
     },
     {
-        "id": 582,
         "cveid": "CVE-2023-28358",
         "link": "https://hackerone.com/reports/1781131"
     },
     {
-        "id": 583,
         "cveid": "CVE-2023-28357",
         "link": "https://hackerone.com/reports/1445810"
     },
     {
-        "id": 584,
         "cveid": "CVE-2023-28356",
         "link": "https://hackerone.com/reports/1461340"
     },
     {
-        "id": 585,
         "cveid": "CVE-2023-28325",
         "link": "https://hackerone.com/reports/1406479"
     },
     {
-        "id": 597,
         "cveid": "CVE-2023-28644",
         "link": "https://hackerone.com/reports/1806223"
     },
     {
-        "id": 598,
         "cveid": "CVE-2023-28643",
         "link": "https://hackerone.com/reports/1697281"
     },
     {
-        "id": 600,
         "cveid": "CVE-2023-29000",
         "link": "https://hackerone.com/reports/1679267"
     },
     {
-        "id": 607,
         "cveid": "CVE-2023-28755",
         "link": "https://hackerone.com/reports/1944515"
     },
     {
-        "id": 609,
         "cveid": "CVE-2023-28756",
         "link": "https://hackerone.com/reports/1929567"
     },
     {
-        "id": 610,
         "cveid": "CVE-2023-28317",
         "link": "https://hackerone.com/reports/1379635"
     },
     {
-        "id": 611,
         "cveid": "CVE-2023-28318",
         "link": "https://hackerone.com/reports/1379451"
     },
     {
-        "id": 612,
         "cveid": "CVE-2023-28316",
         "link": "https://hackerone.com/reports/992280"
     },
     {
-        "id": 613,
         "cveid": "CVE-2022-1471",
         "link": "https://hackerone.com/reports/1807214"
     },
     {
-        "id": 615,
         "cveid": "CVE-2023-28847",
         "link": "https://hackerone.com/reports/1894653"
     },
     {
-        "id": 621,
         "cveid": "CVE-2018-6389",
         "link": "https://hackerone.com/reports/1912540"
     },
     {
-        "id": 623,
         "cveid": "CVE-2023-27538",
         "link": "https://hackerone.com/reports/1912783"
     },
     {
-        "id": 626,
         "cveid": "CVE-2023-25692",
         "link": "https://hackerone.com/reports/1895316"
     },
     {
-        "id": 633,
         "cveid": "CVE-2023-28848",
         "link": "https://hackerone.com/reports/1878381"
     },
     {
-        "id": 634,
         "cveid": "CVE-2023-28647",
         "link": "https://hackerone.com/reports/1847368"
     },
     {
-        "id": 643,
         "cveid": "CVE-2022-23258",
         "link": "https://hackerone.com/reports/1884042"
     },
     {
-        "id": 648,
         "cveid": "CVE-2023-28833",
         "link": "https://hackerone.com/reports/1781751"
     },
     {
-        "id": 652,
         "cveid": "CVE-2021-33621",
         "link": "https://hackerone.com/reports/1889474"
     },
     {
-        "id": 653,
         "cveid": "CVE-2022-35255",
         "link": "https://hackerone.com/reports/1888803"
     },
     {
-        "id": 654,
         "cveid": "CVE-2022-32222",
         "link": "https://hackerone.com/reports/1888758"
     },
     {
-        "id": 655,
         "cveid": "CVE-2022-35256",
         "link": "https://hackerone.com/reports/1888760"
     },
     {
-        "id": 667,
         "cveid": "CVE-2023-28834",
         "link": "https://hackerone.com/reports/1690510"
     },
     {
-        "id": 668,
         "cveid": "CVE-2023-28835",
         "link": "https://hackerone.com/reports/1745702"
     },
     {
-        "id": 669,
         "cveid": "CVE-2023-28645",
         "link": "https://hackerone.com/reports/1724021"
     },
     {
-        "id": 670,
         "cveid": "CVE-2023-23936",
         "link": "https://hackerone.com/reports/1878489"
     },
     {
-        "id": 671,
         "cveid": "CVE-2023-23919",
         "link": "https://hackerone.com/reports/1877977"
     },
     {
-        "id": 680,
         "cveid": "CVE-2023-22797",
         "link": "https://hackerone.com/reports/1865991"
     },
     {
-        "id": 683,
         "cveid": "CVE-2021-39225",
         "link": "https://hackerone.com/reports/1331728"
     },
     {
-        "id": 685,
         "cveid": "CVE-2023-28845",
         "link": "https://hackerone.com/reports/1850407"
     },
     {
-        "id": 687,
         "cveid": "CVE-2018-6389",
         "link": "https://hackerone.com/reports/1887996"
     },
     {
-        "id": 700,
         "cveid": "CVE-2023-27537",
         "link": "https://hackerone.com/reports/1913110"
     },
     {
-        "id": 701,
         "cveid": "CVE-2023-27522",
         "link": "https://hackerone.com/reports/1910810"
     },
     {
-        "id": 702,
         "cveid": "CVE-2023-27538",
         "link": "https://hackerone.com/reports/1898475"
     },
     {
-        "id": 704,
         "cveid": "CVE-2023-27535",
         "link": "https://hackerone.com/reports/1892780"
     },
     {
-        "id": 705,
         "cveid": "CVE-2023-27534",
         "link": "https://hackerone.com/reports/1892351"
     },
     {
-        "id": 706,
         "cveid": "CVE-2023-27533",
         "link": "https://hackerone.com/reports/1891474"
     },
     {
-        "id": 715,
         "cveid": "CVE-2023-25820",
         "link": "https://hackerone.com/reports/1842114"
     },
     {
-        "id": 718,
         "cveid": "CVE-2023-27534",
         "link": "https://hackerone.com/reports/1912777"
     },
     {
-        "id": 719,
         "cveid": "CVE-2023-27533",
         "link": "https://hackerone.com/reports/1912770"
     },
     {
-        "id": 723,
         "cveid": "CVE-2023-23918",
         "link": "https://hackerone.com/reports/1747642"
     },
     {
-        "id": 725,
         "cveid": "CVE-2023-23920",
         "link": "https://hackerone.com/reports/1625036"
     },
     {
-        "id": 727,
         "cveid": "CVE-2023-25693",
         "link": "https://hackerone.com/reports/1891795"
     },
     {
-        "id": 737,
         "cveid": "CVE-2023-22381",
         "link": "https://hackerone.com/reports/1762025"
     },
     {
-        "id": 738,
         "cveid": "CVE-2023-23944",
         "link": "https://hackerone.com/reports/1806275"
     },
     {
-        "id": 744,
         "cveid": "CVE-2023-22736",
         "link": "https://hackerone.com/reports/1847140"
     },
     {
-        "id": 745,
         "cveid": "CVE-2023-23917",
         "link": "https://hackerone.com/reports/1631258"
     },
     {
-        "id": 752,
         "cveid": "CVE-2023-26041",
         "link": "https://hackerone.com/reports/1784310"
     },
     {
-        "id": 753,
         "cveid": "CVE-2023-25821",
         "link": "https://hackerone.com/reports/1724016"
     },
     {
-        "id": 755,
         "cveid": "CVE-2023-23916",
         "link": "https://hackerone.com/reports/1886139"
     },
     {
-        "id": 756,
         "cveid": "CVE-2023-23914",
         "link": "https://hackerone.com/reports/1874715"
     },
     {
-        "id": 757,
         "cveid": "CVE-2023-23915",
         "link": "https://hackerone.com/reports/1874716"
     },
     {
-        "id": 762,
         "cveid": "CVE-2018-6389",
         "link": "https://hackerone.com/reports/1861569"
     },
     {
-        "id": 766,
         "cveid": "CVE-2016-5682",
         "link": "https://hackerone.com/reports/1834042"
     },
     {
-        "id": 773,
         "cveid": "CVE-2023-23916",
         "link": "https://hackerone.com/reports/1826048"
     },
     {
-        "id": 779,
         "cveid": "CVE-2023-23919",
         "link": "https://hackerone.com/reports/1808596"
     },
     {
-        "id": 780,
         "cveid": "CVE-2023-23911",
         "link": "https://hackerone.com/reports/1757663"
     },
     {
-        "id": 782,
         "cveid": "CVE-2023-23914",
         "link": "https://hackerone.com/reports/1813864"
     },
     {
-        "id": 783,
         "cveid": "CVE-2023-23915",
         "link": "https://hackerone.com/reports/1814333"
     },
     {
-        "id": 792,
         "cveid": "CVE-2018-11409",
         "link": "https://hackerone.com/reports/1860905"
     },
     {
-        "id": 795,
         "cveid": "CVE-2022-41882",
         "link": "https://hackerone.com/reports/1720043"
     },
     {
-        "id": 796,
         "cveid": "CVE-2022-43550",
         "link": "https://hackerone.com/reports/1692603"
     },
     {
-        "id": 798,
         "cveid": "CVE-2023-25816",
         "link": "https://hackerone.com/reports/1820864"
     },
     {
-        "id": 800,
         "cveid": "CVE-2021-32708",
         "link": "https://hackerone.com/reports/1720822"
     },
     {
-        "id": 803,
         "cveid": "CVE-2023-23943",
         "link": "https://hackerone.com/reports/1746582"
     },
     {
-        "id": 804,
         "cveid": "CVE-2023-23943",
         "link": "https://hackerone.com/reports/1741525"
     },
     {
-        "id": 805,
         "cveid": "CVE-2023-23943",
         "link": "https://hackerone.com/reports/1736390"
     },
     {
-        "id": 808,
         "cveid": "CVE-2022-43551",
         "link": "https://hackerone.com/reports/1813831"
     },
     {
-        "id": 819,
         "cveid": "CVE-2020-14179",
         "link": "https://hackerone.com/reports/1822160"
     },
     {
-        "id": 822,
         "cveid": "CVE-2021-41878",
         "link": "https://hackerone.com/reports/1825942"
     },
     {
-        "id": 828,
         "cveid": "CVE-2022-23739",
         "link": "https://hackerone.com/reports/1711938"
     },
     {
-        "id": 839,
         "cveid": "CVE-2021-37862",
         "link": "https://hackerone.com/reports/1357013"
     },
     {
-        "id": 840,
         "cveid": "CVE-2022-1385",
         "link": "https://hackerone.com/reports/1486820"
     },
     {
-        "id": 841,
         "cveid": "CVE-2022-1002",
         "link": "https://hackerone.com/reports/1443567"
     },
     {
-        "id": 843,
         "cveid": "CVE-2021-37863",
         "link": "https://hackerone.com/reports/1253732"
     },
     {
-        "id": 844,
         "cveid": "CVE-2022-4019",
         "link": "https://hackerone.com/reports/1685979"
     },
     {
-        "id": 845,
         "cveid": "CVE-2023-24804",
         "link": "https://hackerone.com/reports/1650270"
     },
     {
-        "id": 850,
         "cveid": "CVE-2022-23741",
         "link": "https://hackerone.com/reports/1732595"
     },
     {
-        "id": 851,
         "cveid": "CVE-2023-22469",
         "link": "https://hackerone.com/reports/1767503"
     },
     {
-        "id": 852,
         "cveid": "CVE-2022-32212",
         "link": "https://hackerone.com/reports/1714979"
     },
     {
-        "id": 854,
         "cveid": "CVE-2023-22472",
         "link": "https://hackerone.com/reports/1741430"
     },
     {
-        "id": 857,
         "cveid": "CVE-2023-22473",
         "link": "https://hackerone.com/reports/1784645"
     },
     {
-        "id": 860,
         "cveid": "CVE-2023-22471",
         "link": "https://hackerone.com/reports/1755555"
     },
     {
-        "id": 861,
         "cveid": "CVE-2023-22470",
         "link": "https://hackerone.com/reports/1596059"
     },
     {
-        "id": 865,
         "cveid": "CVE-2021-32802",
         "link": "https://hackerone.com/reports/1261413"
     },
     {
-        "id": 880,
         "cveid": "CVE-2021-44529",
         "link": "https://hackerone.com/reports/1624172"
     },
     {
-        "id": 885,
         "cveid": "CVE-2022-40127",
         "link": "https://hackerone.com/reports/1776476"
     },
     {
-        "id": 886,
         "cveid": "CVE-2022-32209",
         "link": "https://hackerone.com/reports/1805893"
     },
     {
-        "id": 888,
         "cveid": "CVE-2014-3524",
         "link": "https://hackerone.com/reports/1748961"
     },
     {
-        "id": 889,
         "cveid": "CVE-2022-23514",
         "link": "https://hackerone.com/reports/1684163"
     },
     {
-        "id": 892,
         "cveid": "CVE-2022-41969",
         "link": "https://hackerone.com/reports/1727424"
     },
     {
-        "id": 893,
         "cveid": "CVE-2022-41970",
         "link": "https://hackerone.com/reports/1745766"
     },
     {
-        "id": 900,
         "cveid": "CVE-2022-43552",
         "link": "https://hackerone.com/reports/1764858"
     },
     {
-        "id": 902,
         "cveid": "CVE-2022-39334",
         "link": "https://hackerone.com/reports/1699740"
     },
     {
-        "id": 903,
         "cveid": "CVE-2022-4192",
         "link": "https://hackerone.com/reports/1596459"
     },
     {
-        "id": 910,
         "cveid": "CVE-2022-23737",
         "link": "https://hackerone.com/reports/1690427"
     },
     {
-        "id": 917,
         "cveid": "CVE-2022-43551",
         "link": "https://hackerone.com/reports/1755083"
     },
     {
-        "id": 920,
         "cveid": "CVE-2022-39346",
         "link": "https://hackerone.com/reports/1588562"
     },
     {
-        "id": 921,
         "cveid": "CVE-2022-39338",
         "link": "https://hackerone.com/reports/1687410"
     },
     {
-        "id": 922,
         "cveid": "CVE-2022-39339",
         "link": "https://hackerone.com/reports/1687005"
     },
     {
-        "id": 930,
         "cveid": "CVE-2022-23514",
         "link": "https://hackerone.com/reports/1804128"
     },
     {
-        "id": 931,
         "cveid": "CVE-2022-23519",
         "link": "https://hackerone.com/reports/1656627"
     },
     {
-        "id": 932,
         "cveid": "CVE-2022-23520",
         "link": "https://hackerone.com/reports/1654310"
     },
     {
-        "id": 933,
         "cveid": "CVE-2022-35954",
         "link": "https://hackerone.com/reports/1787810"
     },
     {
-        "id": 935,
         "cveid": "CVE-2022-39209",
         "link": "https://hackerone.com/reports/1619604"
     },
     {
-        "id": 938,
         "cveid": "CVE-2019-7639",
         "link": "https://hackerone.com/reports/1726445"
     },
     {
-        "id": 939,
         "cveid": "CVE-2022-3172",
         "link": "https://hackerone.com/reports/1544133"
     },
     {
-        "id": 940,
         "cveid": "CVE-2022-31129",
         "link": "https://hackerone.com/reports/1712329"
     },
     {
-        "id": 941,
         "cveid": "CVE-2022-44567",
         "link": "https://hackerone.com/reports/1781102"
     },
     {
-        "id": 943,
         "cveid": "CVE-2022-43548",
         "link": "https://hackerone.com/reports/1710652"
     },
     {
-        "id": 949,
         "cveid": "CVE-2022-35260",
         "link": "https://hackerone.com/reports/1753224"
     },
     {
-        "id": 951,
         "cveid": "CVE-2022-32221",
         "link": "https://hackerone.com/reports/1752146"
     },
     {
-        "id": 962,
         "cveid": "CVE-2022-45402",
         "link": "https://hackerone.com/reports/1782514"
     },
     {
-        "id": 970,
         "cveid": "CVE-2022-41323",
         "link": "https://hackerone.com/reports/1746098"
     },
     {
-        "id": 972,
         "cveid": "CVE-2022-39364",
         "link": "https://hackerone.com/reports/1652903"
     },
     {
-        "id": 973,
         "cveid": "CVE-2022-42915",
         "link": "https://hackerone.com/reports/1722065"
     },
     {
-        "id": 974,
         "cveid": "CVE-2022-32221",
         "link": "https://hackerone.com/reports/1704017"
     },
     {
-        "id": 975,
         "cveid": "CVE-2022-39329",
         "link": "https://hackerone.com/reports/1675014"
     },
     {
-        "id": 976,
         "cveid": "CVE-2022-39330",
         "link": "https://hackerone.com/reports/1688199"
     },
     {
-        "id": 977,
         "cveid": "CVE-2021-22969",
         "link": "https://hackerone.com/reports/1369312"
     },
     {
-        "id": 979,
         "cveid": "CVE-2021-22970",
         "link": "https://hackerone.com/reports/1364797"
     },
     {
-        "id": 980,
         "cveid": "CVE-2022-39333",
         "link": "https://hackerone.com/reports/1711847"
     },
     {
-        "id": 981,
         "cveid": "CVE-2022-39332",
         "link": "https://hackerone.com/reports/1707977"
     },
     {
-        "id": 982,
         "cveid": "CVE-2022-39331",
         "link": "https://hackerone.com/reports/1668028"
     },
     {
-        "id": 983,
         "cveid": "CVE-2021-33621",
         "link": "https://hackerone.com/reports/1204977"
     },
     {
-        "id": 984,
-        "cveid": "CVE-2021-33621, CVE-2019-16254",
+        "cveid": "CVE-2021-33621",
         "link": "https://hackerone.com/reports/1204695"
     },
     {
-        "id": 985,
+        "cveid": "CVE-2019-16254",
+        "link": "https://hackerone.com/reports/1204695"
+    },
+    {
         "cveid": "CVE-2022-4044",
         "link": "https://hackerone.com/reports/1680241"
     },
     {
-        "id": 995,
         "cveid": "CVE-2021-44228",
         "link": "https://hackerone.com/reports/1624137"
     },
     {
-        "id": 999,
         "cveid": "CVE-2022-23734",
         "link": "https://hackerone.com/reports/1593913"
     },
     {
-        "id": 1000,
         "cveid": "CVE-2022-3512",
         "link": "https://hackerone.com/reports/1635748"
     },
     {
-        "id": 1004,
         "cveid": "CVE-2022-1948",
         "link": "https://hackerone.com/reports/1578400"
     },
     {
-        "id": 1021,
         "cveid": "CVE-2022-3321",
         "link": "https://hackerone.com/reports/1605847"
     },
     {
-        "id": 1022,
         "cveid": "CVE-2022-3322",
         "link": "https://hackerone.com/reports/1542450"
     },
     {
-        "id": 1023,
         "cveid": "CVE-2022-3337",
         "link": "https://hackerone.com/reports/1633231"
     },
     {
-        "id": 1024,
         "cveid": "CVE-2022-35252",
         "link": "https://hackerone.com/reports/1686935"
     },
     {
-        "id": 1030,
         "cveid": "CVE-2022-39321",
         "link": "https://hackerone.com/reports/1637621"
     },
     {
-        "id": 1032,
         "cveid": "CVE-2022-42916",
         "link": "https://hackerone.com/reports/1753226"
     },
     {
-        "id": 1043,
         "cveid": "CVE-2018-1000129",
         "link": "https://hackerone.com/reports/1714563"
     },
     {
-        "id": 1044,
         "cveid": "CVE-2022-42916",
         "link": "https://hackerone.com/reports/1730660"
     },
     {
-        "id": 1045,
         "cveid": "CVE-2022-35260",
         "link": "https://hackerone.com/reports/1721098"
     },
     {
-        "id": 1047,
         "cveid": "CVE-2022-35255",
         "link": "https://hackerone.com/reports/1690000"
     },
     {
-        "id": 1048,
         "cveid": "CVE-2022-35256",
         "link": "https://hackerone.com/reports/1675191"
     },
     {
-        "id": 1049,
         "cveid": "CVE-2022-32213",
         "link": "https://hackerone.com/reports/1630336"
     },
     {
-        "id": 1050,
         "cveid": "CVE-2022-32222",
         "link": "https://hackerone.com/reports/1695596"
     },
     {
-        "id": 1051,
         "cveid": "CVE-2022-32215",
         "link": "https://hackerone.com/reports/1665156"
     },
     {
-        "id": 1061,
         "cveid": "CVE-2022-31020",
         "link": "https://hackerone.com/reports/1705717"
     },
     {
-        "id": 1076,
         "cveid": "CVE-2017-5929",
         "link": "https://hackerone.com/reports/1739099"
     },
     {
-        "id": 1098,
         "cveid": "CVE-2022-41040",
         "link": "https://hackerone.com/reports/1719719"
     },
     {
-        "id": 1104,
         "cveid": "CVE-2022-39288",
         "link": "https://hackerone.com/reports/1715536"
     },
     {
-        "id": 1108,
         "cveid": "CVE-2022-2884",
         "link": "https://hackerone.com/reports/1679624"
     },
     {
-        "id": 1122,
         "cveid": "CVE-2022-35931",
         "link": "https://hackerone.com/reports/1606961"
     },
     {
-        "id": 1126,
         "cveid": "CVE-2022-30190",
         "link": "https://hackerone.com/reports/1606957"
     },
     {
-        "id": 1127,
         "cveid": "CVE-2022-2529",
         "link": "https://hackerone.com/reports/1636320"
     },
     {
-        "id": 1134,
         "cveid": "CVE-2022-32212",
         "link": "https://hackerone.com/reports/1632921"
     },
     {
-        "id": 1143,
         "cveid": "CVE-2022-35949",
         "link": "https://hackerone.com/reports/1663788"
     },
     {
-        "id": 1144,
         "cveid": "CVE-2022-35948",
         "link": "https://hackerone.com/reports/1664019"
     },
     {
-        "id": 1145,
         "cveid": "CVE-2022-38362",
         "link": "https://hackerone.com/reports/1671140"
     },
     {
-        "id": 1148,
         "cveid": "CVE-2022-1940",
         "link": "https://hackerone.com/reports/1533976"
     },
     {
-        "id": 1150,
         "cveid": "CVE-2022-32226",
         "link": "https://hackerone.com/reports/1410357"
     },
     {
-        "id": 1152,
         "cveid": "CVE-2022-32228",
         "link": "https://hackerone.com/reports/1377105"
     },
     {
-        "id": 1153,
         "cveid": "CVE-2022-32229",
         "link": "https://hackerone.com/reports/1446767"
     },
     {
-        "id": 1154,
         "cveid": "CVE-2022-35246",
         "link": "https://hackerone.com/reports/1458020"
     },
     {
-        "id": 1155,
         "cveid": "CVE-2022-35247",
         "link": "https://hackerone.com/reports/1447440"
     },
     {
-        "id": 1156,
         "cveid": "CVE-2022-35248",
         "link": "https://hackerone.com/reports/1448268"
     },
     {
-        "id": 1157,
         "cveid": "CVE-2022-32218",
         "link": "https://hackerone.com/reports/1406953"
     },
     {
-        "id": 1158,
         "cveid": "CVE-2022-32219",
         "link": "https://hackerone.com/reports/1140631"
     },
     {
-        "id": 1159,
         "cveid": "CVE-2022-32217",
         "link": "https://hackerone.com/reports/1394399"
     },
     {
-        "id": 1160,
         "cveid": "CVE-2022-30124",
         "link": "https://hackerone.com/reports/1126414"
     },
     {
-        "id": 1161,
         "cveid": "CVE-2022-35249",
         "link": "https://hackerone.com/reports/1410246"
     },
     {
-        "id": 1162,
         "cveid": "CVE-2022-35250",
         "link": "https://hackerone.com/reports/917946"
     },
     {
-        "id": 1163,
         "cveid": "CVE-2022-35251",
         "link": "https://hackerone.com/reports/1401268"
     },
     {
-        "id": 1164,
         "cveid": "CVE-2022-32211",
         "link": "https://hackerone.com/reports/1581059"
     },
     {
-        "id": 1170,
         "cveid": "CVE-2022-3257",
         "link": "https://hackerone.com/reports/1620170"
     },
     {
-        "id": 1172,
         "cveid": "CVE-2020-7457",
         "link": "https://hackerone.com/reports/1441103"
     },
     {
-        "id": 1174,
         "cveid": "CVE-2022-39211",
         "link": "https://hackerone.com/reports/1608039"
     },
     {
-        "id": 1177,
         "cveid": "CVE-2022-38170",
         "link": "https://hackerone.com/reports/1690093"
     },
     {
-        "id": 1179,
         "cveid": "CVE-2022-39212",
         "link": "https://hackerone.com/reports/1641088"
     },
     {
-        "id": 1180,
         "cveid": "CVE-2022-36074",
         "link": "https://hackerone.com/reports/1604606"
     },
     {
-        "id": 1194,
         "cveid": "CVE-2022-38463",
         "link": "https://hackerone.com/reports/1681208"
     },
     {
-        "id": 1203,
         "cveid": "CVE-2022-31006",
         "link": "https://hackerone.com/reports/1695472"
     },
     {
-        "id": 1206,
         "cveid": "CVE-2022-2185",
         "link": "https://hackerone.com/reports/1609965"
     },
     {
-        "id": 1210,
         "cveid": "CVE-2022-39210",
         "link": "https://hackerone.com/reports/1408692"
     },
     {
-        "id": 1211,
         "cveid": "CVE-2022-21831",
         "link": "https://hackerone.com/reports/1652042"
     },
     {
-        "id": 1222,
         "cveid": "CVE-2020-3580",
         "link": "https://hackerone.com/reports/1606068"
     },
     {
-        "id": 1223,
         "cveid": "CVE-2020-7130",
         "link": "https://hackerone.com/reports/1566758"
     },
     {
-        "id": 1231,
         "cveid": "CVE-2021-38314",
         "link": "https://hackerone.com/reports/1351341"
     },
     {
-        "id": 1237,
         "cveid": "CVE-2022-31132",
         "link": "https://hackerone.com/reports/1595006"
     },
     {
-        "id": 1238,
         "cveid": "CVE-2022-31118",
         "link": "https://hackerone.com/reports/1596918"
     },
     {
-        "id": 1240,
         "cveid": "CVE-2022-31120",
         "link": "https://hackerone.com/reports/1200815"
     },
     {
-        "id": 1249,
         "cveid": "CVE-2022-36023",
         "link": "https://hackerone.com/reports/1635854"
     },
     {
-        "id": 1259,
         "cveid": "CVE-2022-2185",
         "link": "https://hackerone.com/reports/1669176"
     },
     {
-        "id": 1272,
         "cveid": "CVE-2022-35954",
         "link": "https://hackerone.com/reports/1625652"
     },
     {
-        "id": 1277,
         "cveid": "CVE-2021-25742",
         "link": "https://hackerone.com/reports/1378175"
     },
     {
-        "id": 1284,
         "cveid": "CVE-2022-35406",
         "link": "https://hackerone.com/reports/1541301"
     },
     {
-        "id": 1290,
         "cveid": "CVE-2022-35932",
         "link": "https://hackerone.com/reports/1596673"
     },
     {
-        "id": 1324,
         "cveid": "CVE-2022-27781",
         "link": "https://hackerone.com/reports/1606039"
     },
     {
-        "id": 1328,
         "cveid": "CVE-2022-30122",
         "link": "https://hackerone.com/reports/1627159"
     },
     {
-        "id": 1330,
         "cveid": "CVE-2022-32214",
         "link": "https://hackerone.com/reports/1630669"
     },
     {
-        "id": 1331,
         "cveid": "CVE-2022-32213",
         "link": "https://hackerone.com/reports/1630668"
     },
     {
-        "id": 1332,
         "cveid": "CVE-2022-32215",
         "link": "https://hackerone.com/reports/1630667"
     },
     {
-        "id": 1343,
         "cveid": "CVE-2019-11248",
         "link": "https://hackerone.com/reports/1607940"
     },
     {
-        "id": 1353,
         "cveid": "CVE-2022-32210",
         "link": "https://hackerone.com/reports/1583680"
     },
     {
-        "id": 1357,
         "cveid": "CVE-2021-40438",
         "link": "https://hackerone.com/reports/1370731"
     },
     {
-        "id": 1358,
         "cveid": "CVE-2021-44228",
         "link": "https://hackerone.com/reports/1425474"
     },
     {
-        "id": 1372,
         "cveid": "CVE-2022-29404",
         "link": "https://hackerone.com/reports/1596252"
     },
     {
-        "id": 1373,
         "cveid": "CVE-2022-26377",
         "link": "https://hackerone.com/reports/1594627"
     },
     {
-        "id": 1374,
         "cveid": "CVE-2022-28614",
         "link": "https://hackerone.com/reports/1595299"
     },
     {
-        "id": 1375,
         "cveid": "CVE-2022-28330",
         "link": "https://hackerone.com/reports/1595296"
     },
     {
-        "id": 1376,
         "cveid": "CVE-2022-30556",
         "link": "https://hackerone.com/reports/1595290"
     },
     {
-        "id": 1377,
         "cveid": "CVE-2022-28615",
         "link": "https://hackerone.com/reports/1595281"
     },
     {
-        "id": 1383,
         "cveid": "CVE-2022-32214",
         "link": "https://hackerone.com/reports/1524692"
     },
     {
-        "id": 1384,
         "cveid": "CVE-2022-32215",
         "link": "https://hackerone.com/reports/1501679"
     },
     {
-        "id": 1386,
         "cveid": "CVE-2022-31121",
         "link": "https://hackerone.com/reports/1604951"
     },
     {
-        "id": 1389,
         "cveid": "CVE-2022-31131",
         "link": "https://hackerone.com/reports/1579820"
     },
     {
-        "id": 1395,
         "cveid": "CVE-2022-31014",
         "link": "https://hackerone.com/reports/1516377"
     },
     {
-        "id": 1397,
         "cveid": "CVE-2022-31024",
         "link": "https://hackerone.com/reports/1210424"
     },
     {
-        "id": 1404,
         "cveid": "CVE-2023-22798",
         "link": "https://hackerone.com/reports/1579374"
     },
     {
-        "id": 1406,
         "cveid": "CVE-2022-32208",
         "link": "https://hackerone.com/reports/1614332"
     },
     {
-        "id": 1407,
         "cveid": "CVE-2022-32206",
         "link": "https://hackerone.com/reports/1614330"
     },
     {
-        "id": 1408,
         "cveid": "CVE-2022-32205",
         "link": "https://hackerone.com/reports/1614328"
     },
     {
-        "id": 1409,
         "cveid": "CVE-2022-32207",
         "link": "https://hackerone.com/reports/1614331"
     },
     {
-        "id": 1417,
         "cveid": "CVE-2022-32209",
         "link": "https://hackerone.com/reports/1599573"
     },
     {
-        "id": 1418,
         "cveid": "CVE-2022-32205",
         "link": "https://hackerone.com/reports/1569946"
     },
     {
-        "id": 1419,
         "cveid": "CVE-2022-32206",
         "link": "https://hackerone.com/reports/1570651"
     },
     {
-        "id": 1420,
         "cveid": "CVE-2022-32207",
         "link": "https://hackerone.com/reports/1573634"
     },
     {
-        "id": 1421,
         "cveid": "CVE-2022-32208",
         "link": "https://hackerone.com/reports/1590071"
     },
     {
-        "id": 1431,
         "cveid": "CVE-2022-29163",
         "link": "https://hackerone.com/reports/1406926"
     },
     {
-        "id": 1451,
         "cveid": "CVE-2022-32209",
         "link": "https://hackerone.com/reports/1530898"
     },
     {
-        "id": 1454,
         "cveid": "CVE-2022-30115",
         "link": "https://hackerone.com/reports/1565622"
     },
     {
-        "id": 1455,
         "cveid": "CVE-2022-27780",
         "link": "https://hackerone.com/reports/1565619"
     },
     {
-        "id": 1456,
         "cveid": "CVE-2022-27779",
         "link": "https://hackerone.com/reports/1565615"
     },
     {
-        "id": 1461,
         "cveid": "CVE-2022-24890",
         "link": "https://hackerone.com/reports/1520685"
     },
     {
-        "id": 1462,
         "cveid": "CVE-2019-5435",
         "link": "https://hackerone.com/reports/1564922"
     },
     {
-        "id": 1475,
         "cveid": "CVE-2020-12448",
         "link": "https://hackerone.com/reports/822262"
     },
     {
-        "id": 1494,
         "cveid": "CVE-2022-29243",
         "link": "https://hackerone.com/reports/1153138"
     },
     {
-        "id": 1498,
         "cveid": "CVE-2022-28738",
         "link": "https://hackerone.com/reports/1549636"
     },
     {
-        "id": 1499,
         "cveid": "CVE-2022-24888",
         "link": "https://hackerone.com/reports/1402249"
     },
     {
-        "id": 1500,
         "cveid": "CVE-2022-24886",
         "link": "https://hackerone.com/reports/1161401"
     },
     {
-        "id": 1502,
         "cveid": "CVE-2015-1635",
         "link": "https://hackerone.com/reports/469730"
     },
     {
-        "id": 1518,
         "cveid": "CVE-2022-24906",
         "link": "https://hackerone.com/reports/1354334"
     },
     {
-        "id": 1519,
         "cveid": "CVE-2022-29159",
         "link": "https://hackerone.com/reports/1450117"
     },
     {
-        "id": 1520,
         "cveid": "CVE-2022-29160",
         "link": "https://hackerone.com/reports/1222873"
     },
     {
-        "id": 1525,
         "cveid": "CVE-2022-29188",
         "link": "https://hackerone.com/reports/1528242"
     },
     {
-        "id": 1532,
         "cveid": "CVE-2022-27781",
         "link": "https://hackerone.com/reports/1555441"
     },
     {
-        "id": 1535,
         "cveid": "CVE-2022-27776",
         "link": "https://hackerone.com/reports/1568175"
     },
     {
-        "id": 1548,
         "cveid": "CVE-2022-27778",
         "link": "https://hackerone.com/reports/1565623"
     },
     {
-        "id": 1549,
         "cveid": "CVE-2022-27782",
         "link": "https://hackerone.com/reports/1565624"
     },
     {
-        "id": 1550,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/1555015"
     },
     {
-        "id": 1551,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/1555021"
     },
     {
-        "id": 1552,
         "cveid": "CVE-2020-3187",
         "link": "https://hackerone.com/reports/1555027"
     },
     {
-        "id": 1553,
         "cveid": "CVE-2020-3187",
         "link": "https://hackerone.com/reports/1555025"
     },
     {
-        "id": 1557,
         "cveid": "CVE-2022-29867",
         "link": "https://hackerone.com/reports/1350653"
     },
     {
-        "id": 1558,
         "cveid": "CVE-2022-30115",
         "link": "https://hackerone.com/reports/1557449"
     },
     {
-        "id": 1559,
         "cveid": "CVE-2022-27780",
         "link": "https://hackerone.com/reports/1553841"
     },
     {
-        "id": 1560,
         "cveid": "CVE-2021-43608",
         "link": "https://hackerone.com/reports/1390331"
     },
     {
-        "id": 1561,
         "cveid": "CVE-2022-27782",
         "link": "https://hackerone.com/reports/1555796"
     },
     {
-        "id": 1563,
         "cveid": "CVE-2022-27779",
         "link": "https://hackerone.com/reports/1553301"
     },
     {
-        "id": 1564,
         "cveid": "CVE-2022-27778",
         "link": "https://hackerone.com/reports/1553598"
     },
     {
-        "id": 1582,
         "cveid": "CVE-2022-24885",
         "link": "https://hackerone.com/reports/1450368"
     },
     {
-        "id": 1588,
         "cveid": "CVE-2020-14179",
         "link": "https://hackerone.com/reports/1278977"
     },
     {
-        "id": 1589,
         "cveid": "CVE-2021-27905",
         "link": "https://hackerone.com/reports/1183472"
     },
     {
-        "id": 1590,
         "cveid": "CVE-2022-22954",
         "link": "https://hackerone.com/reports/1537543"
     },
     {
-        "id": 1593,
         "cveid": "CVE-2022-24889",
         "link": "https://hackerone.com/reports/1403614"
     },
     {
-        "id": 1594,
         "cveid": "CVE-2022-22576",
         "link": "https://hackerone.com/reports/1552110"
     },
     {
-        "id": 1595,
         "cveid": "CVE-2022-22576",
         "link": "https://hackerone.com/reports/1526328"
     },
     {
-        "id": 1597,
         "cveid": "CVE-2022-27776",
         "link": "https://hackerone.com/reports/1551591"
     },
     {
-        "id": 1598,
         "cveid": "CVE-2022-27775",
         "link": "https://hackerone.com/reports/1551588"
     },
     {
-        "id": 1602,
         "cveid": "CVE-2022-27776",
         "link": "https://hackerone.com/reports/1547048"
     },
     {
-        "id": 1603,
         "cveid": "CVE-2022-27775",
         "link": "https://hackerone.com/reports/1546268"
     },
     {
-        "id": 1615,
         "cveid": "CVE-2022-21718",
         "link": "https://hackerone.com/reports/1519099"
     },
     {
-        "id": 1630,
         "cveid": "CVE-2022-22954",
         "link": "https://hackerone.com/reports/1537694"
     },
     {
-        "id": 1641,
         "cveid": "CVE-2022-23943",
         "link": "https://hackerone.com/reports/1511619"
     },
     {
-        "id": 1644,
         "cveid": "CVE-2022-23732",
         "link": "https://hackerone.com/reports/1497169"
     },
     {
-        "id": 1654,
         "cveid": "CVE-2021-32640",
         "link": "https://hackerone.com/reports/1538157"
     },
     {
-        "id": 1659,
         "cveid": "CVE-2021-41233",
         "link": "https://hackerone.com/reports/1337422"
     },
     {
-        "id": 1666,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/1234925"
     },
     {
-        "id": 1681,
         "cveid": "CVE-2021-38159",
         "link": "https://hackerone.com/reports/1525200"
     },
     {
-        "id": 1688,
         "cveid": "CVE-2022-24288",
         "link": "https://hackerone.com/reports/1492896"
     },
     {
-        "id": 1726,
         "cveid": "CVE-2020-5902",
         "link": "https://hackerone.com/reports/1519841"
     },
     {
-        "id": 1730,
         "cveid": "CVE-2022-21658",
         "link": "https://hackerone.com/reports/1520931"
     },
     {
-        "id": 1736,
         "cveid": "CVE-2021-26600",
         "link": "https://hackerone.com/reports/1081986"
     },
     {
-        "id": 1737,
         "cveid": "CVE-2022-24713",
         "link": "https://hackerone.com/reports/1518036"
     },
     {
-        "id": 1751,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/1455257"
     },
     {
-        "id": 1752,
         "cveid": "CVE-2020-3187",
         "link": "https://hackerone.com/reports/1455266"
     },
     {
-        "id": 1757,
         "cveid": "CVE-2021-42567",
         "link": "https://hackerone.com/reports/1446236"
     },
     {
-        "id": 1764,
         "cveid": "CVE-2022-22719",
         "link": "https://hackerone.com/reports/1514863"
     },
     {
-        "id": 1767,
         "cveid": "CVE-2022-21703",
         "link": "https://hackerone.com/reports/1458236"
     },
     {
-        "id": 1772,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/938684"
     },
     {
-        "id": 1783,
         "cveid": "CVE-2022-24741",
         "link": "https://hackerone.com/reports/1261225"
     },
     {
-        "id": 1785,
         "cveid": "CVE-2021-41180",
         "link": "https://hackerone.com/reports/1337178"
     },
     {
-        "id": 1836,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/1415825"
     },
     {
-        "id": 1850,
         "cveid": "CVE-2021-44531",
         "link": "https://hackerone.com/reports/1429694"
     },
     {
-        "id": 1871,
         "cveid": "CVE-2020-8242",
         "link": "https://hackerone.com/reports/968240"
     },
     {
-        "id": 1890,
         "cveid": "CVE-2021-41816",
         "link": "https://hackerone.com/reports/1455248"
     },
     {
-        "id": 1896,
         "cveid": "CVE-2021-4044",
         "link": "https://hackerone.com/reports/1455411"
     },
     {
-        "id": 1919,
         "cveid": "CVE-2021-44228",
         "link": "https://hackerone.com/reports/1423496"
     },
     {
-        "id": 1944,
         "cveid": "CVE-2022-21824",
         "link": "https://hackerone.com/reports/1431042"
     },
     {
-        "id": 1950,
         "cveid": "CVE-2021-44790",
         "link": "https://hackerone.com/reports/1434056"
     },
     {
-        "id": 1952,
         "cveid": "CVE-2021-44228",
         "link": "https://hackerone.com/reports/1429014"
     },
     {
-        "id": 1983,
         "cveid": "CVE-2021-44228",
         "link": "https://hackerone.com/reports/1427589"
     },
     {
-        "id": 1987,
         "cveid": "CVE-2020-17551",
         "link": "https://hackerone.com/reports/1331281"
     },
     {
-        "id": 2053,
         "cveid": "CVE-2022-21830",
         "link": "https://hackerone.com/reports/1091118"
     },
     {
-        "id": 2099,
         "cveid": "CVE-2021-42013",
         "link": "https://hackerone.com/reports/1404731"
     },
     {
-        "id": 2103,
         "cveid": "CVE-2021-41773",
         "link": "https://hackerone.com/reports/1400238"
     },
     {
-        "id": 2105,
         "cveid": "CVE-2021-22942",
         "link": "https://hackerone.com/reports/1374512"
     },
     {
-        "id": 2116,
         "cveid": "CVE-2021-22151",
         "link": "https://hackerone.com/reports/1353603"
     },
     {
-        "id": 2122,
         "cveid": "CVE-2021-40870",
         "link": "https://hackerone.com/reports/1360593"
     },
     {
-        "id": 2128,
         "cveid": "CVE-2021-22961",
         "link": "https://hackerone.com/reports/1193641"
     },
     {
-        "id": 2132,
         "cveid": "CVE-2021-22968",
         "link": "https://hackerone.com/reports/1350444"
     },
     {
-        "id": 2136,
         "cveid": "CVE-2021-41773",
         "link": "https://hackerone.com/reports/1394916"
     },
     {
-        "id": 2141,
         "cveid": "CVE-2019-9946",
         "link": "https://hackerone.com/reports/819717"
     },
     {
-        "id": 2152,
         "cveid": "CVE-2021-26085",
         "link": "https://hackerone.com/reports/1369288"
     },
     {
-        "id": 2168,
         "cveid": "CVE-2020-8554",
         "link": "https://hackerone.com/reports/764986"
     },
     {
-        "id": 2169,
         "cveid": "CVE-2021-33193",
         "link": "https://hackerone.com/reports/1391549"
     },
     {
-        "id": 2177,
         "cveid": "CVE-2021-22960",
         "link": "https://hackerone.com/reports/1238099"
     },
     {
-        "id": 2186,
         "cveid": "CVE-2017-9841",
         "link": "https://hackerone.com/reports/1132457"
     },
     {
-        "id": 2224,
         "cveid": "CVE-2021-3737",
         "link": "https://hackerone.com/reports/1188128"
     },
     {
-        "id": 2225,
         "cveid": "CVE-2021-40102",
         "link": "https://hackerone.com/reports/921288"
     },
     {
-        "id": 2227,
         "cveid": "CVE-2021-22959",
         "link": "https://hackerone.com/reports/1238709"
     },
     {
-        "id": 2240,
         "cveid": "CVE-2021-40108",
         "link": "https://hackerone.com/reports/1102018"
     },
     {
-        "id": 2241,
         "cveid": "CVE-2021-40097",
         "link": "https://hackerone.com/reports/1102067"
     },
     {
-        "id": 2254,
         "cveid": "CVE-2021-22964",
         "link": "https://hackerone.com/reports/1361804"
     },
     {
-        "id": 2255,
         "cveid": "CVE-2021-22963",
         "link": "https://hackerone.com/reports/1354255"
     },
     {
-        "id": 2257,
         "cveid": "CVE-2020-11110",
         "link": "https://hackerone.com/reports/1329433"
     },
     {
-        "id": 2259,
         "cveid": "CVE-2020-8170",
         "link": "https://hackerone.com/reports/331368"
     },
     {
-        "id": 2261,
         "cveid": "CVE-2020-8561",
         "link": "https://hackerone.com/reports/941178"
     },
     {
-        "id": 2262,
         "cveid": "CVE-2021-40870",
         "link": "https://hackerone.com/reports/1356845"
     },
     {
-        "id": 2268,
         "cveid": "CVE-2021-40100",
         "link": "https://hackerone.com/reports/616770"
     },
     {
-        "id": 2269,
         "cveid": "CVE-2021-22958",
         "link": "https://hackerone.com/reports/863221"
     },
     {
-        "id": 2275,
         "cveid": "CVE-2020-14179",
         "link": "https://hackerone.com/reports/1352461"
     },
     {
-        "id": 2276,
         "cveid": "CVE-2020-3580",
         "link": "https://hackerone.com/reports/1243650"
     },
     {
-        "id": 2277,
         "cveid": "CVE-2020-14179",
         "link": "https://hackerone.com/reports/1336397"
     },
     {
-        "id": 2280,
         "cveid": "CVE-2018-6389",
         "link": "https://hackerone.com/reports/946578"
     },
     {
-        "id": 2281,
         "cveid": "CVE-2021-3711",
         "link": "https://hackerone.com/reports/1352429"
     },
     {
-        "id": 2286,
-        "cveid": "CVE-2020-3187, CVE-2020-3452",
+        "cveid": "CVE-2020-3187",
         "link": "https://hackerone.com/reports/944665"
     },
     {
-        "id": 2289,
+        "cveid": "CVE-2020-3452",
+        "link": "https://hackerone.com/reports/944665"
+    },
+    {
         "cveid": "CVE-2021-36766",
         "link": "https://hackerone.com/reports/1063039"
     },
     {
-        "id": 2290,
         "cveid": "CVE-2021-22946",
         "link": "https://hackerone.com/reports/1334111"
     },
     {
-        "id": 2291,
         "cveid": "CVE-2021-22947",
         "link": "https://hackerone.com/reports/1334763"
     },
     {
-        "id": 2300,
         "cveid": "CVE-2021-40099",
         "link": "https://hackerone.com/reports/982130"
     },
     {
-        "id": 2313,
         "cveid": "CVE-2021-22939",
         "link": "https://hackerone.com/reports/1278254"
     },
     {
-        "id": 2323,
         "cveid": "CVE-2021-22945",
         "link": "https://hackerone.com/reports/1269242"
     },
     {
-        "id": 2325,
         "cveid": "CVE-2021-22948",
         "link": "https://hackerone.com/reports/1306942"
     },
     {
-        "id": 2336,
         "cveid": "CVE-2021-22931",
         "link": "https://hackerone.com/reports/1178337"
     },
     {
-        "id": 2341,
         "cveid": "CVE-2020-14179",
         "link": "https://hackerone.com/reports/1153817"
     },
     {
-        "id": 2342,
         "cveid": "CVE-2020-3580",
         "link": "https://hackerone.com/reports/1277389"
     },
     {
-        "id": 2343,
         "cveid": "CVE-2020-3580",
         "link": "https://hackerone.com/reports/1277392"
     },
     {
-        "id": 2365,
         "cveid": "CVE-2021-25737",
         "link": "https://hackerone.com/reports/1145044"
     },
     {
-        "id": 2390,
         "cveid": "CVE-2020-9283",
         "link": "https://hackerone.com/reports/1294043"
     },
     {
-        "id": 2395,
         "cveid": "CVE-2020-3187",
         "link": "https://hackerone.com/reports/1056611"
     },
     {
-        "id": 2401,
         "cveid": "CVE-2021-23017",
         "link": "https://hackerone.com/reports/1210450"
     },
     {
-        "id": 2402,
         "cveid": "CVE-2019-18678",
         "link": "https://hackerone.com/reports/758445"
     },
     {
-        "id": 2403,
         "cveid": "CVE-2019-12527",
         "link": "https://hackerone.com/reports/641240"
     },
     {
-        "id": 2405,
         "cveid": "CVE-2019-12526",
         "link": "https://hackerone.com/reports/824771"
     },
     {
-        "id": 2406,
         "cveid": "CVE-2019-12523",
         "link": "https://hackerone.com/reports/824802"
     },
     {
-        "id": 2408,
         "cveid": "CVE-2019-12520",
         "link": "https://hackerone.com/reports/824753"
     },
     {
-        "id": 2412,
         "cveid": "CVE-2013-3827",
         "link": "https://hackerone.com/reports/1280188"
     },
     {
-        "id": 2415,
         "cveid": "CVE-2021-29156",
         "link": "https://hackerone.com/reports/1278891"
     },
     {
-        "id": 2416,
         "cveid": "CVE-2019-19274",
         "link": "https://hackerone.com/reports/746766"
     },
     {
-        "id": 2417,
         "cveid": "CVE-2021-3177",
         "link": "https://hackerone.com/reports/1084342"
     },
     {
-        "id": 2428,
         "cveid": "CVE-2017-13033",
         "link": "https://hackerone.com/reports/802846"
     },
     {
-        "id": 2429,
         "cveid": "CVE-2017-13050",
         "link": "https://hackerone.com/reports/802863"
     },
     {
-        "id": 2430,
         "cveid": "CVE-2017-13019",
         "link": "https://hackerone.com/reports/802896"
     },
     {
-        "id": 2431,
         "cveid": "CVE-2020-10938",
         "link": "https://hackerone.com/reports/816637"
     },
     {
-        "id": 2433,
         "cveid": "CVE-2019-19501",
         "link": "https://hackerone.com/reports/530292"
     },
     {
-        "id": 2434,
         "cveid": "CVE-2020-9383",
         "link": "https://hackerone.com/reports/891846"
     },
     {
-        "id": 2441,
         "cveid": "CVE-2020-3580",
         "link": "https://hackerone.com/reports/1277383"
     },
     {
-        "id": 2443,
         "cveid": "CVE-2021-29156",
         "link": "https://hackerone.com/reports/1278050"
     },
     {
-        "id": 2449,
         "cveid": "CVE-2018-6389",
         "link": "https://hackerone.com/reports/925425"
     },
     {
-        "id": 2465,
         "cveid": "CVE-2020-10136",
         "link": "https://hackerone.com/reports/893922"
     },
     {
-        "id": 2479,
         "cveid": "CVE-2021-32741",
         "link": "https://hackerone.com/reports/1192144"
     },
     {
-        "id": 2480,
         "cveid": "CVE-2021-32734",
         "link": "https://hackerone.com/reports/1246721"
     },
     {
-        "id": 2481,
         "cveid": "CVE-2021-32733",
         "link": "https://hackerone.com/reports/1241460"
     },
     {
-        "id": 2482,
         "cveid": "CVE-2021-32707",
         "link": "https://hackerone.com/reports/1215251"
     },
     {
-        "id": 2483,
         "cveid": "CVE-2021-32705",
         "link": "https://hackerone.com/reports/1192159"
     },
     {
-        "id": 2484,
         "cveid": "CVE-2021-32703",
         "link": "https://hackerone.com/reports/1173684"
     },
     {
-        "id": 2485,
         "cveid": "CVE-2021-32679",
         "link": "https://hackerone.com/reports/1215263"
     },
     {
-        "id": 2486,
         "cveid": "CVE-2021-32678",
         "link": "https://hackerone.com/reports/1214158"
     },
     {
-        "id": 2496,
         "cveid": "CVE-2021-32726",
         "link": "https://hackerone.com/reports/1202590"
     },
     {
-        "id": 2497,
         "cveid": "CVE-2021-32748",
         "link": "https://hackerone.com/reports/1194606"
     },
     {
-        "id": 2498,
         "cveid": "CVE-2021-25738",
         "link": "https://hackerone.com/reports/1167773"
     },
     {
-        "id": 2499,
         "cveid": "CVE-2021-37859",
         "link": "https://hackerone.com/reports/1216203"
     },
     {
-        "id": 2500,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/1257100"
     },
     {
-        "id": 2520,
         "cveid": "CVE-2019-8331",
         "link": "https://hackerone.com/reports/1188643"
     },
     {
-        "id": 2533,
         "cveid": "CVE-2021-35464",
         "link": "https://hackerone.com/reports/1248040"
     },
     {
-        "id": 2534,
         "cveid": "CVE-2019-11510",
         "link": "https://hackerone.com/reports/695005"
     },
     {
-        "id": 2535,
         "cveid": "CVE-2020-3580",
         "link": "https://hackerone.com/reports/1245055"
     },
     {
-        "id": 2536,
         "cveid": "CVE-2020-3580",
         "link": "https://hackerone.com/reports/1245048"
     },
     {
-        "id": 2537,
         "cveid": "CVE-2021-35464",
         "link": "https://hackerone.com/reports/1249456"
     },
     {
-        "id": 2539,
         "cveid": "CVE-2018-2879",
         "link": "https://hackerone.com/reports/728110"
     },
     {
-        "id": 2547,
         "cveid": "CVE-2019-18353",
         "link": "https://hackerone.com/reports/721333"
     },
     {
-        "id": 2548,
         "cveid": "CVE-2020-8517",
         "link": "https://hackerone.com/reports/789034"
     },
     {
-        "id": 2549,
         "cveid": "CVE-2016-2183",
         "link": "https://hackerone.com/reports/1271701"
     },
     {
-        "id": 2556,
         "cveid": "CVE-2020-6797",
         "link": "https://hackerone.com/reports/944025"
     },
     {
-        "id": 2557,
         "cveid": "CVE-2020-27194",
         "link": "https://hackerone.com/reports/1010340"
     },
     {
-        "id": 2558,
         "cveid": "CVE-2017-16808",
         "link": "https://hackerone.com/reports/831353"
     },
     {
-        "id": 2559,
         "cveid": "CVE-2020-26140",
         "link": "https://hackerone.com/reports/1238470"
     },
     {
-        "id": 2560,
         "cveid": "CVE-2020-27348",
         "link": "https://hackerone.com/reports/1073202"
     },
     {
-        "id": 2568,
         "cveid": "CVE-2021-22925",
         "link": "https://hackerone.com/reports/1223882"
     },
     {
-        "id": 2571,
         "cveid": "CVE-2021-22924",
         "link": "https://hackerone.com/reports/1223565"
     },
     {
-        "id": 2572,
         "cveid": "CVE-2021-22926",
         "link": "https://hackerone.com/reports/1234760"
     },
     {
-        "id": 2573,
         "cveid": "CVE-2021-22923",
         "link": "https://hackerone.com/reports/1213181"
     },
     {
-        "id": 2574,
         "cveid": "CVE-2021-22922",
         "link": "https://hackerone.com/reports/1213175"
     },
     {
-        "id": 2581,
         "cveid": "CVE-2021-32695",
         "link": "https://hackerone.com/reports/1142918"
     },
     {
-        "id": 2589,
         "cveid": "CVE-2021-32680",
         "link": "https://hackerone.com/reports/1200810"
     },
     {
-        "id": 2591,
         "cveid": "CVE-2021-32688",
         "link": "https://hackerone.com/reports/1193321"
     },
     {
-        "id": 2597,
         "cveid": "CVE-2021-31799",
         "link": "https://hackerone.com/reports/1161691"
     },
     {
-        "id": 2605,
         "cveid": "CVE-2020-27829",
         "link": "https://hackerone.com/reports/1047086"
     },
     {
-        "id": 2606,
         "cveid": "CVE-2017-13040",
         "link": "https://hackerone.com/reports/964582"
     },
     {
-        "id": 2607,
         "cveid": "CVE-2017-13041",
         "link": "https://hackerone.com/reports/964583"
     },
     {
-        "id": 2615,
         "cveid": "CVE-2021-31810",
         "link": "https://hackerone.com/reports/1145454"
     },
     {
-        "id": 2616,
         "cveid": "CVE-2021-32066",
         "link": "https://hackerone.com/reports/1178562"
     },
     {
-        "id": 2617,
         "cveid": "CVE-2021-22916",
         "link": "https://hackerone.com/reports/1203842"
     },
     {
-        "id": 2622,
         "cveid": "CVE-2021-22918",
         "link": "https://hackerone.com/reports/1209681"
     },
     {
-        "id": 2623,
         "cveid": "CVE-2021-22921",
         "link": "https://hackerone.com/reports/1211160"
     },
     {
-        "id": 2626,
         "cveid": "CVE-2021-36214",
         "link": "https://hackerone.com/reports/988332"
     },
     {
-        "id": 2628,
         "cveid": "CVE-2021-22915",
         "link": "https://hackerone.com/reports/1154003"
     },
     {
-        "id": 2658,
-        "cveid": "CVE-2019-8451, CVE-2019-3396",
+        "cveid": "CVE-2019-8451",
         "link": "https://hackerone.com/reports/713900"
     },
     {
-        "id": 2710,
+        "cveid": "CVE-2019-3396",
+        "link": "https://hackerone.com/reports/713900"
+    },
+    {
         "cveid": "CVE-2019-8331",
         "link": "https://hackerone.com/reports/1218173"
     },
     {
-        "id": 2727,
         "cveid": "CVE-2021-32694",
         "link": "https://hackerone.com/reports/859136"
     },
     {
-        "id": 2729,
         "cveid": "CVE-2021-22917",
         "link": "https://hackerone.com/reports/1077022"
     },
     {
-        "id": 2736,
         "cveid": "CVE-2021-32658",
         "link": "https://hackerone.com/reports/1189168"
     },
     {
-        "id": 2742,
         "cveid": "CVE-2021-32676",
         "link": "https://hackerone.com/reports/1181962"
     },
     {
-        "id": 2751,
         "cveid": "CVE-2021-22905",
         "link": "https://hackerone.com/reports/1167916"
     },
     {
-        "id": 2752,
         "cveid": "CVE-2018-16477",
         "link": "https://hackerone.com/reports/429873"
     },
     {
-        "id": 2756,
         "cveid": "CVE-2021-28918",
         "link": "https://hackerone.com/reports/1141623"
     },
     {
-        "id": 2766,
         "cveid": "CVE-2021-32655",
         "link": "https://hackerone.com/reports/1167929"
     },
     {
-        "id": 2767,
         "cveid": "CVE-2021-32654",
         "link": "https://hackerone.com/reports/1170024"
     },
     {
-        "id": 2768,
         "cveid": "CVE-2021-32653",
         "link": "https://hackerone.com/reports/1173436"
     },
     {
-        "id": 2770,
         "cveid": "CVE-2021-22906",
         "link": "https://hackerone.com/reports/1189174"
     },
     {
-        "id": 2771,
         "cveid": "CVE-2021-32656",
         "link": "https://hackerone.com/reports/1167853"
     },
     {
-        "id": 2785,
         "cveid": "CVE-2019-3403",
         "link": "https://hackerone.com/reports/1147951"
     },
     {
-        "id": 2789,
         "cveid": "CVE-2017-11317",
         "link": "https://hackerone.com/reports/1174185"
     },
     {
-        "id": 2790,
         "cveid": "CVE-2017-14651",
         "link": "https://hackerone.com/reports/1173593"
     },
     {
-        "id": 2794,
         "cveid": "CVE-2021-22948",
         "link": "https://hackerone.com/reports/1187820"
     },
     {
-        "id": 2797,
         "cveid": "CVE-2021-22895",
         "link": "https://hackerone.com/reports/903424"
     },
     {
-        "id": 2798,
         "cveid": "CVE-2021-32657",
         "link": "https://hackerone.com/reports/1147611"
     },
     {
-        "id": 2799,
         "cveid": "CVE-2021-32652",
         "link": "https://hackerone.com/reports/1094063"
     },
     {
-        "id": 2801,
         "cveid": "CVE-2021-22896",
         "link": "https://hackerone.com/reports/1129996"
     },
     {
-        "id": 2802,
         "cveid": "CVE-2021-22912",
         "link": "https://hackerone.com/reports/1167919"
     },
     {
-        "id": 2818,
         "cveid": "CVE-2020-8562",
         "link": "https://hackerone.com/reports/859962"
     },
     {
-        "id": 2821,
         "cveid": "CVE-2021-21395",
         "link": "https://hackerone.com/reports/1086752"
     },
     {
-        "id": 2823,
         "cveid": "CVE-2021-29628",
         "link": "https://hackerone.com/reports/1048322"
     },
     {
-        "id": 2832,
         "cveid": "CVE-2021-22913",
         "link": "https://hackerone.com/reports/1167958"
     },
     {
-        "id": 2834,
         "cveid": "CVE-2021-22901",
         "link": "https://hackerone.com/reports/1180380"
     },
     {
-        "id": 2835,
         "cveid": "CVE-2021-22898",
         "link": "https://hackerone.com/reports/1176461"
     },
     {
-        "id": 2836,
         "cveid": "CVE-2021-22897",
         "link": "https://hackerone.com/reports/1172857"
     },
     {
-        "id": 2849,
         "cveid": "CVE-2020-8232",
         "link": "https://hackerone.com/reports/797988"
     },
     {
-        "id": 2850,
         "cveid": "CVE-2020-8233",
         "link": "https://hackerone.com/reports/796414"
     },
     {
-        "id": 2851,
         "cveid": "CVE-2020-8234",
         "link": "https://hackerone.com/reports/774393"
     },
     {
-        "id": 2870,
         "cveid": "CVE-2021-21389",
         "link": "https://hackerone.com/reports/1107282"
     },
     {
-        "id": 2894,
         "cveid": "CVE-2019-8451",
         "link": "https://hackerone.com/reports/900618"
     },
     {
-        "id": 2897,
         "cveid": "CVE-2019-3394",
         "link": "https://hackerone.com/reports/980881"
     },
     {
-        "id": 2901,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/998925"
     },
     {
-        "id": 2902,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/1137321"
     },
     {
-        "id": 2919,
         "cveid": "CVE-2021-22885",
         "link": "https://hackerone.com/reports/1106652"
     },
     {
-        "id": 2931,
         "cveid": "CVE-2018-6389",
         "link": "https://hackerone.com/reports/1186985"
     },
     {
-        "id": 2938,
         "cveid": "CVE-2020-3187",
         "link": "https://hackerone.com/reports/1023792"
     },
     {
-        "id": 2973,
         "cveid": "CVE-2021-22890",
         "link": "https://hackerone.com/reports/1129529"
     },
     {
-        "id": 2974,
         "cveid": "CVE-2021-22876",
         "link": "https://hackerone.com/reports/1101882"
     },
     {
-        "id": 2979,
         "cveid": "CVE-2021-22892",
         "link": "https://hackerone.com/reports/1089116"
     },
     {
-        "id": 2984,
         "cveid": "CVE-2020-15505",
         "link": "https://hackerone.com/reports/983548"
     },
     {
-        "id": 2991,
         "cveid": "CVE-2017-10271",
         "link": "https://hackerone.com/reports/810755"
     },
     {
-        "id": 2992,
         "cveid": "CVE-2017-3506",
         "link": "https://hackerone.com/reports/810778"
     },
     {
-        "id": 3039,
         "cveid": "CVE-2021-28965",
         "link": "https://hackerone.com/reports/1104077"
     },
     {
-        "id": 3040,
         "cveid": "CVE-2021-22879",
         "link": "https://hackerone.com/reports/1078002"
     },
     {
-        "id": 3043,
         "cveid": "CVE-2019-12616",
         "link": "https://hackerone.com/reports/1113212"
     },
     {
-        "id": 3070,
         "cveid": "CVE-2017-1000486",
         "link": "https://hackerone.com/reports/1067291"
     },
     {
-        "id": 3074,
         "cveid": "CVE-2021-23840",
         "link": "https://hackerone.com/reports/1113025"
     },
     {
-        "id": 3075,
         "cveid": "CVE-2021-28966",
         "link": "https://hackerone.com/reports/1131465"
     },
     {
-        "id": 3093,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/959679"
     },
     {
-        "id": 3094,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/960082"
     },
     {
-        "id": 3098,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/962908"
     },
     {
-        "id": 3107,
         "cveid": "CVE-2021-26718",
         "link": "https://hackerone.com/reports/980876"
     },
     {
-        "id": 3126,
         "cveid": "CVE-2020-8252",
         "link": "https://hackerone.com/reports/965914"
     },
     {
-        "id": 3152,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/949560"
     },
     {
-        "id": 3153,
         "cveid": "CVE-2021-22886",
         "link": "https://hackerone.com/reports/1014459"
     },
     {
-        "id": 3156,
         "cveid": "CVE-2021-26855",
         "link": "https://hackerone.com/reports/1119228"
     },
     {
-        "id": 3157,
         "cveid": "CVE-2021-26855",
         "link": "https://hackerone.com/reports/1119224"
     },
     {
-        "id": 3164,
         "cveid": "CVE-2018-7600",
         "link": "https://hackerone.com/reports/1063256"
     },
     {
-        "id": 3166,
         "cveid": "CVE-2020-8251",
         "link": "https://hackerone.com/reports/868834"
     },
     {
-        "id": 3167,
         "cveid": "CVE-2020-8201",
         "link": "https://hackerone.com/reports/922597"
     },
     {
-        "id": 3194,
         "cveid": "CVE-2021-22889",
         "link": "https://hackerone.com/reports/1097217"
     },
     {
-        "id": 3195,
         "cveid": "CVE-2021-22888",
         "link": "https://hackerone.com/reports/1097979"
     },
     {
-        "id": 3197,
         "cveid": "CVE-2006-7109",
         "link": "https://hackerone.com/reports/1121317"
     },
     {
-        "id": 3199,
         "cveid": "CVE-2020-8277",
         "link": "https://hackerone.com/reports/1033107"
     },
     {
-        "id": 3207,
         "cveid": "CVE-2021-22883",
         "link": "https://hackerone.com/reports/1043360"
     },
     {
-        "id": 3221,
         "cveid": "CVE-2020-8265",
         "link": "https://hackerone.com/reports/988103"
     },
     {
-        "id": 3262,
         "cveid": "CVE-2018-1000007",
         "link": "https://hackerone.com/reports/1086259"
     },
     {
-        "id": 3293,
         "cveid": "CVE-2021-22877",
         "link": "https://hackerone.com/reports/1061591"
     },
     {
-        "id": 3294,
         "cveid": "CVE-2021-22878",
         "link": "https://hackerone.com/reports/896522"
     },
     {
-        "id": 3295,
         "cveid": "CVE-2020-8296",
         "link": "https://hackerone.com/reports/867164"
     },
     {
-        "id": 3313,
         "cveid": "CVE-2016-0457",
         "link": "https://hackerone.com/reports/448598"
     },
     {
-        "id": 3314,
-        "cveid": "CVE-2019-11510, CVE-2019-11542, CVE-2019-11539, CVE-2019-11538, CVE-2019-11508, CVE-2019-11540",
+        "cveid": "CVE-2019-11510",
         "link": "https://hackerone.com/reports/617543"
     },
     {
-        "id": 3319,
+        "cveid": "CVE-2019-11542",
+        "link": "https://hackerone.com/reports/617543"
+    },
+    {
+        "cveid": "CVE-2019-11539",
+        "link": "https://hackerone.com/reports/617543"
+    },
+    {
+        "cveid": "CVE-2019-11538",
+        "link": "https://hackerone.com/reports/617543"
+    },
+    {
+        "cveid": "CVE-2019-11508",
+        "link": "https://hackerone.com/reports/617543"
+    },
+    {
+        "cveid": "CVE-2019-11540",
+        "link": "https://hackerone.com/reports/617543"
+    },
+    {
         "cveid": "CVE-2021-22884",
         "link": "https://hackerone.com/reports/1069487"
     },
     {
-        "id": 3343,
         "cveid": "CVE-2020-8294",
         "link": "https://hackerone.com/reports/1023787"
     },
     {
-        "id": 3369,
         "cveid": "CVE-2020-6287",
         "link": "https://hackerone.com/reports/1028392"
     },
     {
-        "id": 3372,
         "cveid": "CVE-2020-6286",
         "link": "https://hackerone.com/reports/1103212"
     },
     {
-        "id": 3386,
         "cveid": "CVE-2020-8297",
         "link": "https://hackerone.com/reports/882258"
     },
     {
-        "id": 3391,
         "cveid": "CVE-2015-3306",
         "link": "https://hackerone.com/reports/1024393"
     },
     {
-        "id": 3394,
         "cveid": "CVE-2021-22882",
         "link": "https://hackerone.com/reports/1008579"
     },
     {
-        "id": 3415,
         "cveid": "CVE-2021-22881",
         "link": "https://hackerone.com/reports/1047447"
     },
     {
-        "id": 3416,
         "cveid": "CVE-2021-22880",
         "link": "https://hackerone.com/reports/1023899"
     },
     {
-        "id": 3430,
         "cveid": "CVE-2020-8284",
         "link": "https://hackerone.com/reports/1040166"
     },
     {
-        "id": 3440,
         "cveid": "CVE-2019-1552",
         "link": "https://hackerone.com/reports/714215"
     },
     {
-        "id": 3449,
         "cveid": "CVE-2020-26297",
         "link": "https://hackerone.com/reports/1073514"
     },
     {
-        "id": 3460,
         "cveid": "CVE-2020-8179",
         "link": "https://hackerone.com/reports/867052"
     },
     {
-        "id": 3465,
         "cveid": "CVE-2020-8287",
         "link": "https://hackerone.com/reports/1002188"
     },
     {
-        "id": 3475,
         "cveid": "CVE-2021-22875",
         "link": "https://hackerone.com/reports/1083376"
     },
     {
-        "id": 3476,
         "cveid": "CVE-2021-22874",
         "link": "https://hackerone.com/reports/1083231"
     },
     {
-        "id": 3477,
         "cveid": "CVE-2020-8295",
         "link": "https://hackerone.com/reports/812754"
     },
     {
-        "id": 3508,
         "cveid": "CVE-2020-8293",
         "link": "https://hackerone.com/reports/1018146"
     },
     {
-        "id": 3519,
         "cveid": "CVE-2021-22873",
         "link": "https://hackerone.com/reports/1081406"
     },
     {
-        "id": 3520,
         "cveid": "CVE-2021-22871",
         "link": "https://hackerone.com/reports/819362"
     },
     {
-        "id": 3525,
         "cveid": "CVE-2021-22872",
         "link": "https://hackerone.com/reports/986365"
     },
     {
-        "id": 3529,
         "cveid": "CVE-2020-8288",
         "link": "https://hackerone.com/reports/899954"
     },
     {
-        "id": 3530,
         "cveid": "CVE-2020-8292",
         "link": "https://hackerone.com/reports/962902"
     },
     {
-        "id": 3535,
         "cveid": "CVE-2019-15615",
         "link": "https://hackerone.com/reports/747726"
     },
     {
-        "id": 3560,
         "cveid": "CVE-2020-14179",
         "link": "https://hackerone.com/reports/1067004"
     },
     {
-        "id": 3561,
         "cveid": "CVE-2020-14179",
         "link": "https://hackerone.com/reports/1050454"
     },
     {
-        "id": 3617,
         "cveid": "CVE-2018-3774",
         "link": "https://hackerone.com/reports/704621"
     },
     {
-        "id": 3627,
         "cveid": "CVE-2020-29594",
         "link": "https://hackerone.com/reports/1049375"
     },
     {
-        "id": 3629,
         "cveid": "CVE-2019-3823",
         "link": "https://hackerone.com/reports/518097"
     },
     {
-        "id": 3630,
         "cveid": "CVE-2019-15601",
         "link": "https://hackerone.com/reports/812969"
     },
     {
-        "id": 3631,
         "cveid": "CVE-2018-16839",
         "link": "https://hackerone.com/reports/872089"
     },
     {
-        "id": 3634,
         "cveid": "CVE-2019-14553",
         "link": "https://hackerone.com/reports/715413"
     },
     {
-        "id": 3637,
         "cveid": "CVE-2020-8285",
         "link": "https://hackerone.com/reports/1045844"
     },
     {
-        "id": 3671,
         "cveid": "CVE-2016-6415",
         "link": "https://hackerone.com/reports/962872"
     },
     {
-        "id": 3686,
         "cveid": "CVE-2020-8280",
         "link": "https://hackerone.com/reports/998422"
     },
     {
-        "id": 3708,
         "cveid": "CVE-2019-16303",
         "link": "https://hackerone.com/reports/1065402"
     },
     {
-        "id": 3709,
         "cveid": "CVE-2019-16303",
         "link": "https://hackerone.com/reports/1065403"
     },
     {
-        "id": 3720,
         "cveid": "CVE-2020-8264",
         "link": "https://hackerone.com/reports/904059"
     },
     {
-        "id": 3728,
         "cveid": "CVE-2020-8159",
         "link": "https://hackerone.com/reports/519220"
     },
     {
-        "id": 3740,
         "cveid": "CVE-2020-8281",
         "link": "https://hackerone.com/reports/894876"
     },
     {
-        "id": 3744,
         "cveid": "CVE-2017-7529",
         "link": "https://hackerone.com/reports/980856"
     },
     {
-        "id": 3764,
         "cveid": "CVE-2020-7764",
         "link": "https://hackerone.com/reports/1025575"
     },
     {
-        "id": 3770,
         "cveid": "CVE-2020-8286",
         "link": "https://hackerone.com/reports/1048457"
     },
     {
-        "id": 3779,
         "cveid": "CVE-2019-5435",
         "link": "https://hackerone.com/reports/547630"
     },
     {
-        "id": 3780,
         "cveid": "CVE-2020-8177",
         "link": "https://hackerone.com/reports/887462"
     },
     {
-        "id": 3781,
         "cveid": "CVE-2020-8169",
         "link": "https://hackerone.com/reports/874778"
     },
     {
-        "id": 3793,
         "cveid": "CVE-2020-8569",
         "link": "https://hackerone.com/reports/1032086"
     },
     {
-        "id": 3801,
         "cveid": "CVE-2019-8320",
         "link": "https://hackerone.com/reports/317321"
     },
     {
-        "id": 3802,
         "cveid": "CVE-2020-13340",
         "link": "https://hackerone.com/reports/950190"
     },
     {
-        "id": 3803,
         "cveid": "CVE-2020-13350",
         "link": "https://hackerone.com/reports/415238"
     },
     {
-        "id": 3805,
         "cveid": "CVE-2020-13351",
         "link": "https://hackerone.com/reports/962462"
     },
     {
-        "id": 3809,
         "cveid": "CVE-2017-14389",
         "link": "https://hackerone.com/reports/746000"
     },
     {
-        "id": 3810,
         "cveid": "CVE-2020-8563",
         "link": "https://hackerone.com/reports/966383"
     },
     {
-        "id": 3811,
-        "cveid": "CVE-2020-8565, CVE-2019-11250",
+        "cveid": "CVE-2020-8565",
         "link": "https://hackerone.com/reports/952771"
     },
     {
-        "id": 3818,
+        "cveid": "CVE-2019-11250",
+        "link": "https://hackerone.com/reports/952771"
+    },
+    {
         "cveid": "CVE-2017-8291",
         "link": "https://hackerone.com/reports/365271"
     },
     {
-        "id": 3842,
         "cveid": "CVE-2020-3187",
         "link": "https://hackerone.com/reports/1026265"
     },
     {
-        "id": 3843,
         "cveid": "CVE-2020-3187",
         "link": "https://hackerone.com/reports/1031437"
     },
     {
-        "id": 3859,
         "cveid": "CVE-2020-14179",
         "link": "https://hackerone.com/reports/1003980"
     },
     {
-        "id": 3892,
         "cveid": "CVE-2020-8279",
         "link": "https://hackerone.com/reports/915585"
     },
     {
-        "id": 3893,
         "cveid": "CVE-2020-8278",
         "link": "https://hackerone.com/reports/921717"
     },
     {
-        "id": 3905,
         "cveid": "CVE-2019-5482",
         "link": "https://hackerone.com/reports/684603"
     },
     {
-        "id": 3906,
         "cveid": "CVE-2019-5481",
         "link": "https://hackerone.com/reports/686823"
     },
     {
-        "id": 3909,
         "cveid": "CVE-2020-8152",
         "link": "https://hackerone.com/reports/743505"
     },
     {
-        "id": 3910,
         "cveid": "CVE-2020-8259",
         "link": "https://hackerone.com/reports/732431"
     },
     {
-        "id": 3933,
         "cveid": "CVE-2020-26205",
         "link": "https://hackerone.com/reports/995995"
     },
     {
-        "id": 3939,
         "cveid": "CVE-2020-10543",
         "link": "https://hackerone.com/reports/888986"
     },
     {
-        "id": 3940,
         "cveid": "CVE-2019-11041",
         "link": "https://hackerone.com/reports/675578"
     },
     {
-        "id": 3941,
         "cveid": "CVE-2019-11042",
         "link": "https://hackerone.com/reports/675580"
     },
     {
-        "id": 3942,
         "cveid": "CVE-2020-7059",
         "link": "https://hackerone.com/reports/778834"
     },
     {
-        "id": 3943,
         "cveid": "CVE-2019-11044",
         "link": "https://hackerone.com/reports/805010"
     },
     {
-        "id": 3945,
         "cveid": "CVE-2019-9025",
         "link": "https://hackerone.com/reports/476178"
     },
     {
-        "id": 3946,
         "cveid": "CVE-2019-9023",
         "link": "https://hackerone.com/reports/476168"
     },
     {
-        "id": 3947,
         "cveid": "CVE-2019-9024",
         "link": "https://hackerone.com/reports/477897"
     },
     {
-        "id": 3948,
         "cveid": "CVE-2019-9020",
         "link": "https://hackerone.com/reports/477896"
     },
     {
-        "id": 3950,
         "cveid": "CVE-2019-11045",
         "link": "https://hackerone.com/reports/805013"
     },
     {
-        "id": 3952,
         "cveid": "CVE-2019-11040",
         "link": "https://hackerone.com/reports/665330"
     },
     {
-        "id": 3953,
         "cveid": "CVE-2015-8865",
         "link": "https://hackerone.com/reports/476179"
     },
     {
-        "id": 3954,
         "cveid": "CVE-2019-11043",
         "link": "https://hackerone.com/reports/722327"
     },
     {
-        "id": 3955,
         "cveid": "CVE-2019-9675",
         "link": "https://hackerone.com/reports/504761"
     },
     {
-        "id": 3956,
         "cveid": "CVE-2020-7068",
         "link": "https://hackerone.com/reports/950299"
     },
     {
-        "id": 3958,
         "cveid": "CVE-2018-19935",
         "link": "https://hackerone.com/reports/456727"
     },
     {
-        "id": 3966,
         "cveid": "CVE-2020-8231",
         "link": "https://hackerone.com/reports/948876"
     },
     {
-        "id": 3968,
         "cveid": "CVE-2020-8133",
         "link": "https://hackerone.com/reports/661051"
     },
     {
-        "id": 3969,
         "cveid": "CVE-2020-8150",
         "link": "https://hackerone.com/reports/742588"
     },
     {
-        "id": 3974,
         "cveid": "CVE-2020-8276",
         "link": "https://hackerone.com/reports/1024668"
     },
     {
-        "id": 3975,
         "cveid": "CVE-2011-0411",
         "link": "https://hackerone.com/reports/953219"
     },
     {
-        "id": 3979,
         "cveid": "CVE-2013-3827",
         "link": "https://hackerone.com/reports/924485"
     },
     {
-        "id": 3992,
         "cveid": "CVE-2020-9490",
         "link": "https://hackerone.com/reports/972936"
     },
     {
-        "id": 3998,
         "cveid": "CVE-2020-8551",
         "link": "https://hackerone.com/reports/774896"
     },
     {
-        "id": 4002,
         "cveid": "CVE-2020-8553",
         "link": "https://hackerone.com/reports/778803"
     },
     {
-        "id": 4003,
         "cveid": "CVE-2020-8559",
         "link": "https://hackerone.com/reports/863979"
     },
     {
-        "id": 4004,
         "cveid": "CVE-2020-8555",
         "link": "https://hackerone.com/reports/776017"
     },
     {
-        "id": 4022,
         "cveid": "CVE-2020-8236",
         "link": "https://hackerone.com/reports/924393"
     },
     {
-        "id": 4023,
         "cveid": "CVE-2020-8183",
         "link": "https://hackerone.com/reports/885041"
     },
     {
-        "id": 4024,
         "cveid": "CVE-2020-8173",
         "link": "https://hackerone.com/reports/852841"
     },
     {
-        "id": 4060,
         "cveid": "CVE-2020-7065",
         "link": "https://hackerone.com/reports/838127"
     },
     {
-        "id": 4068,
         "cveid": "CVE-2020-8268",
         "link": "https://hackerone.com/reports/980649"
     },
     {
-        "id": 4069,
         "cveid": "CVE-2020-3187",
         "link": "https://hackerone.com/reports/987090"
     },
     {
-        "id": 4070,
         "cveid": "CVE-2020-14179",
         "link": "https://hackerone.com/reports/988550"
     },
     {
-        "id": 4071,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/951530"
     },
     {
-        "id": 4072,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/943717"
     },
     {
-        "id": 4093,
         "cveid": "CVE-2020-7067",
         "link": "https://hackerone.com/reports/852103"
     },
     {
-        "id": 4094,
         "cveid": "CVE-2018-16474",
         "link": "https://hackerone.com/reports/606526"
     },
     {
-        "id": 4103,
         "cveid": "CVE-2019-11039",
         "link": "https://hackerone.com/reports/593229"
     },
     {
-        "id": 4104,
         "cveid": "CVE-2018-10546",
         "link": "https://hackerone.com/reports/505278"
     },
     {
-        "id": 4107,
         "cveid": "CVE-2020-1934",
         "link": "https://hackerone.com/reports/838685"
     },
     {
-        "id": 4108,
         "cveid": "CVE-2019-11048",
         "link": "https://hackerone.com/reports/905015"
     },
     {
-        "id": 4109,
         "cveid": "CVE-2019-6977",
         "link": "https://hackerone.com/reports/478368"
     },
     {
-        "id": 4110,
         "cveid": "CVE-2016-10166",
         "link": "https://hackerone.com/reports/478367"
     },
     {
-        "id": 4111,
         "cveid": "CVE-2019-9021",
         "link": "https://hackerone.com/reports/475499"
     },
     {
-        "id": 4113,
         "cveid": "CVE-2019-9641",
         "link": "https://hackerone.com/reports/510336"
     },
     {
-        "id": 4114,
         "cveid": "CVE-2019-9638",
         "link": "https://hackerone.com/reports/516237"
     },
     {
-        "id": 4116,
         "cveid": "CVE-2019-11038",
         "link": "https://hackerone.com/reports/623588"
     },
     {
-        "id": 4117,
         "cveid": "CVE-2016-7418",
         "link": "https://hackerone.com/reports/170618"
     },
     {
-        "id": 4119,
         "cveid": "CVE-2018-20783",
         "link": "https://hackerone.com/reports/477344"
     },
     {
-        "id": 4149,
         "cveid": "CVE-2019-5418",
         "link": "https://hackerone.com/reports/541858"
     },
     {
-        "id": 4167,
         "cveid": "CVE-2020-3187",
         "link": "https://hackerone.com/reports/978335"
     },
     {
-        "id": 4171,
         "cveid": "CVE-2020-8235",
         "link": "https://hackerone.com/reports/916704"
     },
     {
-        "id": 4176,
         "cveid": "CVE-2020-8182",
         "link": "https://hackerone.com/reports/827816"
     },
     {
-        "id": 4177,
         "cveid": "CVE-2020-8228",
         "link": "https://hackerone.com/reports/922470"
     },
     {
-        "id": 4178,
         "cveid": "CVE-2020-8223",
         "link": "https://hackerone.com/reports/889243"
     },
     {
-        "id": 4188,
         "cveid": "CVE-2020-6506",
         "link": "https://hackerone.com/reports/906433"
     },
     {
-        "id": 4201,
         "cveid": "CVE-2020-3187",
         "link": "https://hackerone.com/reports/960330"
     },
     {
-        "id": 4212,
         "cveid": "CVE-2020-8225",
         "link": "https://hackerone.com/reports/685990"
     },
     {
-        "id": 4239,
         "cveid": "CVE-2020-15871",
         "link": "https://hackerone.com/reports/917843"
     },
     {
-        "id": 4258,
         "cveid": "CVE-2017-18024",
         "link": "https://hackerone.com/reports/963798"
     },
     {
-        "id": 4288,
         "cveid": "CVE-2019-0192",
         "link": "https://hackerone.com/reports/962013"
     },
     {
-        "id": 4289,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/959187"
     },
     {
-        "id": 4290,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/951508"
     },
     {
-        "id": 4320,
         "cveid": "CVE-2020-11026",
         "link": "https://hackerone.com/reports/179695"
     },
     {
-        "id": 4325,
         "cveid": "CVE-2020-8166",
         "link": "https://hackerone.com/reports/732415"
     },
     {
-        "id": 4327,
         "cveid": "CVE-2020-8244",
         "link": "https://hackerone.com/reports/966347"
     },
     {
-        "id": 4344,
         "cveid": "CVE-2020-8237",
         "link": "https://hackerone.com/reports/916430"
     },
     {
-        "id": 4419,
         "cveid": "CVE-2020-8227",
         "link": "https://hackerone.com/reports/590319"
     },
     {
-        "id": 4420,
         "cveid": "CVE-2020-8224",
         "link": "https://hackerone.com/reports/622170"
     },
     {
-        "id": 4421,
         "cveid": "CVE-2020-8229",
         "link": "https://hackerone.com/reports/588562"
     },
     {
-        "id": 4424,
         "cveid": "CVE-2020-8189",
         "link": "https://hackerone.com/reports/685552"
     },
     {
-        "id": 4432,
         "cveid": "CVE-2020-8230",
         "link": "https://hackerone.com/reports/380102"
     },
     {
-        "id": 4434,
-        "cveid": "CVE-2017-11317, CVE-2019-18935",
+        "cveid": "CVE-2017-11317",
         "link": "https://hackerone.com/reports/913695"
     },
     {
-        "id": 4435,
+        "cveid": "CVE-2019-18935",
+        "link": "https://hackerone.com/reports/913695"
+    },
+    {
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/936399"
     },
     {
-        "id": 4436,
         "cveid": "CVE-2020-3452",
         "link": "https://hackerone.com/reports/940384"
     },
     {
-        "id": 4528,
         "cveid": "CVE-2020-8177",
         "link": "https://hackerone.com/reports/926638"
     },
     {
-        "id": 4541,
         "cveid": "CVE-2017-1000486",
         "link": "https://hackerone.com/reports/874924"
     },
     {
-        "id": 4549,
         "cveid": "CVE-2020-8192",
         "link": "https://hackerone.com/reports/903521"
     },
     {
-        "id": 4550,
         "cveid": "CVE-2020-8202",
         "link": "https://hackerone.com/reports/840598"
     },
     {
-        "id": 4574,
         "cveid": "CVE-2020-8185",
         "link": "https://hackerone.com/reports/899069"
     },
     {
-        "id": 4577,
         "cveid": "CVE-2020-8158",
         "link": "https://hackerone.com/reports/869574"
     },
     {
-        "id": 4578,
         "cveid": "CVE-2019-19935",
         "link": "https://hackerone.com/reports/938683"
     },
     {
-        "id": 4603,
         "cveid": "CVE-2020-8557",
         "link": "https://hackerone.com/reports/867699"
     },
     {
-        "id": 4622,
         "cveid": "CVE-2019-15606",
         "link": "https://hackerone.com/reports/730779"
     },
     {
-        "id": 4624,
         "cveid": "CVE-2020-8172",
         "link": "https://hackerone.com/reports/811502"
     },
     {
-        "id": 4625,
         "cveid": "CVE-2019-15604",
         "link": "https://hackerone.com/reports/746733"
     },
     {
-        "id": 4626,
         "cveid": "CVE-2020-8174",
         "link": "https://hackerone.com/reports/784186"
     },
     {
-        "id": 4648,
         "cveid": "CVE-2017-7529",
         "link": "https://hackerone.com/reports/876257"
     },
     {
-        "id": 4659,
         "cveid": "CVE-2019-15616",
         "link": "https://hackerone.com/reports/592864"
     },
     {
-        "id": 4667,
         "cveid": "CVE-2020-8181",
         "link": "https://hackerone.com/reports/808287"
     },
     {
-        "id": 4705,
         "cveid": "CVE-2020-8170",
         "link": "https://hackerone.com/reports/661647"
     },
     {
-        "id": 4706,
         "cveid": "CVE-2020-8168",
         "link": "https://hackerone.com/reports/703659"
     },
     {
-        "id": 4720,
         "cveid": "CVE-2020-8205",
         "link": "https://hackerone.com/reports/891270"
     },
     {
-        "id": 4831,
         "cveid": "CVE-2020-8184",
         "link": "https://hackerone.com/reports/895727"
     },
     {
-        "id": 4832,
         "cveid": "CVE-2020-8186",
         "link": "https://hackerone.com/reports/863544"
     },
     {
-        "id": 4859,
         "cveid": "CVE-2020-1938",
         "link": "https://hackerone.com/reports/874427"
     },
     {
-        "id": 4899,
         "cveid": "CVE-2020-8134",
         "link": "https://hackerone.com/reports/815084"
     },
     {
-        "id": 4903,
         "cveid": "CVE-2020-8156",
         "link": "https://hackerone.com/reports/803734"
     },
     {
-        "id": 4905,
         "cveid": "CVE-2020-8180",
         "link": "https://hackerone.com/reports/851807"
     },
     {
-        "id": 4907,
         "cveid": "CVE-2020-8170",
         "link": "https://hackerone.com/reports/386570"
     },
     {
-        "id": 4911,
         "cveid": "CVE-2020-8168",
         "link": "https://hackerone.com/reports/323852"
     },
     {
-        "id": 4919,
         "cveid": "CVE-2020-8178",
         "link": "https://hackerone.com/reports/690010"
     },
     {
-        "id": 4931,
         "cveid": "CVE-2020-8167",
         "link": "https://hackerone.com/reports/189878"
     },
     {
-        "id": 4932,
         "cveid": "CVE-2020-8165",
         "link": "https://hackerone.com/reports/413388"
     },
     {
-        "id": 4939,
         "cveid": "CVE-2020-8155",
         "link": "https://hackerone.com/reports/819863"
     },
     {
-        "id": 4949,
         "cveid": "CVE-2020-8175",
         "link": "https://hackerone.com/reports/842462"
     },
     {
-        "id": 4956,
         "cveid": "CVE-2020-8162",
         "link": "https://hackerone.com/reports/789579"
     },
     {
-        "id": 4957,
         "cveid": "CVE-2020-8164",
         "link": "https://hackerone.com/reports/292797"
     },
     {
-        "id": 5010,
         "cveid": "CVE-2020-8151",
         "link": "https://hackerone.com/reports/803922"
     },
     {
-        "id": 5037,
         "cveid": "CVE-2019-0604",
         "link": "https://hackerone.com/reports/534630"
     },
     {
-        "id": 5048,
         "cveid": "CVE-2020-8149",
         "link": "https://hackerone.com/reports/825729"
     },
     {
-        "id": 5059,
         "cveid": "CVE-2019-11510",
         "link": "https://hackerone.com/reports/680480"
     },
     {
-        "id": 5060,
         "cveid": "CVE-2017-11317",
         "link": "https://hackerone.com/reports/838196"
     },
     {
-        "id": 5067,
         "cveid": "CVE-2019-9947",
         "link": "https://hackerone.com/reports/590020"
     },
     {
-        "id": 5071,
         "cveid": "CVE-2019-9498",
         "link": "https://hackerone.com/reports/745276"
     },
     {
-        "id": 5099,
         "cveid": "CVE-2020-8203",
         "link": "https://hackerone.com/reports/712065"
     },
     {
-        "id": 5114,
         "cveid": "CVE-2013-0269",
         "link": "https://hackerone.com/reports/706934"
     },
     {
-        "id": 5132,
         "cveid": "CVE-2020-8154",
         "link": "https://hackerone.com/reports/819807"
     },
     {
-        "id": 5134,
         "cveid": "CVE-2019-5464",
         "link": "https://hackerone.com/reports/632101"
     },
     {
-        "id": 5154,
         "cveid": "CVE-2018-4059",
         "link": "https://hackerone.com/reports/843263"
     },
     {
-        "id": 5162,
         "cveid": "CVE-2020-8153",
         "link": "https://hackerone.com/reports/642515"
     },
     {
-        "id": 5163,
         "cveid": "CVE-2020-8148",
         "link": "https://hackerone.com/reports/802079"
     },
     {
-        "id": 5164,
         "cveid": "CVE-2020-8140",
         "link": "https://hackerone.com/reports/633266"
     },
     {
-        "id": 5165,
         "cveid": "CVE-2020-8139",
         "link": "https://hackerone.com/reports/788257"
     },
     {
-        "id": 5180,
         "cveid": "CVE-2009-1151",
         "link": "https://hackerone.com/reports/798135"
     },
     {
-        "id": 5199,
         "cveid": "CVE-2018-6389",
         "link": "https://hackerone.com/reports/826238"
     },
     {
-        "id": 5205,
         "cveid": "CVE-2020-8147",
         "link": "https://hackerone.com/reports/801522"
     },
     {
-        "id": 5211,
         "cveid": "CVE-2020-8145",
         "link": "https://hackerone.com/reports/329659"
     },
     {
-        "id": 5214,
         "cveid": "CVE-2020-8146",
         "link": "https://hackerone.com/reports/530967"
     },
     {
-        "id": 5269,
         "cveid": "CVE-2018-5230",
         "link": "https://hackerone.com/reports/380354"
     },
     {
-        "id": 5290,
         "cveid": "CVE-2018-6389",
         "link": "https://hackerone.com/reports/694467"
     },
     {
-        "id": 5303,
         "cveid": "CVE-2020-8138",
         "link": "https://hackerone.com/reports/736867"
     },
     {
-        "id": 5304,
         "cveid": "CVE-2019-15613",
         "link": "https://hackerone.com/reports/697959"
     },
     {
-        "id": 5305,
         "cveid": "CVE-2019-11043",
         "link": "https://hackerone.com/reports/720306"
     },
     {
-        "id": 5313,
         "cveid": "CVE-2020-8142",
         "link": "https://hackerone.com/reports/792895"
     },
     {
-        "id": 5314,
         "cveid": "CVE-2020-8143",
         "link": "https://hackerone.com/reports/794144"
     },
     {
-        "id": 5338,
         "cveid": "CVE-2020-8137",
         "link": "https://hackerone.com/reports/772448"
     },
     {
-        "id": 5340,
         "cveid": "CVE-2020-8134",
         "link": "https://hackerone.com/reports/793704"
     },
     {
-        "id": 5343,
         "cveid": "CVE-2019-15614",
         "link": "https://hackerone.com/reports/575562"
     },
     {
-        "id": 5368,
         "cveid": "CVE-2020-8135",
         "link": "https://hackerone.com/reports/786956"
     },
     {
-        "id": 5378,
         "cveid": "CVE-2018-3765",
         "link": "https://hackerone.com/reports/331302"
     },
     {
-        "id": 5383,
         "cveid": "CVE-2020-8117",
         "link": "https://hackerone.com/reports/439828"
     },
     {
-        "id": 5385,
         "cveid": "CVE-2019-15621",
         "link": "https://hackerone.com/reports/619484"
     },
     {
-        "id": 5387,
         "cveid": "CVE-2019-15618",
         "link": "https://hackerone.com/reports/515484"
     },
     {
-        "id": 5388,
         "cveid": "CVE-2019-15619",
         "link": "https://hackerone.com/reports/662204"
     },
     {
-        "id": 5389,
         "cveid": "CVE-2019-15620",
         "link": "https://hackerone.com/reports/662218"
     },
     {
-        "id": 5390,
         "cveid": "CVE-2019-15617",
         "link": "https://hackerone.com/reports/722748"
     },
     {
-        "id": 5391,
         "cveid": "CVE-2019-15610",
         "link": "https://hackerone.com/reports/673724"
     },
     {
-        "id": 5392,
         "cveid": "CVE-2019-15611",
         "link": "https://hackerone.com/reports/672623"
     },
     {
-        "id": 5394,
         "cveid": "CVE-2016-6210",
         "link": "https://hackerone.com/reports/476439"
     },
     {
-        "id": 5399,
         "cveid": "CVE-2018-6389",
         "link": "https://hackerone.com/reports/690338"
     },
     {
-        "id": 5403,
         "cveid": "CVE-2020-8136",
         "link": "https://hackerone.com/reports/804772"
     },
     {
-        "id": 5412,
         "cveid": "CVE-2019-15608",
         "link": "https://hackerone.com/reports/703138"
     },
     {
-        "id": 5423,
         "cveid": "CVE-2020-8132",
         "link": "https://hackerone.com/reports/781664"
     },
     {
-        "id": 5425,
         "cveid": "CVE-2018-5230",
         "link": "https://hackerone.com/reports/781284"
     },
     {
-        "id": 5460,
         "cveid": "CVE-2018-6389",
         "link": "https://hackerone.com/reports/777274"
     },
     {
-        "id": 5462,
         "cveid": "CVE-2020-8127",
         "link": "https://hackerone.com/reports/691977"
     },
     {
-        "id": 5470,
         "cveid": "CVE-2020-8131",
         "link": "https://hackerone.com/reports/730239"
     },
     {
-        "id": 5477,
         "cveid": "CVE-2018-12122",
         "link": "https://hackerone.com/reports/453513"
     },
     {
-        "id": 5486,
         "cveid": "CVE-2018-16227",
         "link": "https://hackerone.com/reports/724243"
     },
     {
-        "id": 5487,
         "cveid": "CVE-2018-14879",
         "link": "https://hackerone.com/reports/724217"
     },
     {
-        "id": 5495,
         "cveid": "CVE-2017-8779",
         "link": "https://hackerone.com/reports/791893"
     },
     {
-        "id": 5508,
         "cveid": "CVE-2020-8128",
         "link": "https://hackerone.com/reports/660565"
     },
     {
-        "id": 5510,
         "cveid": "CVE-2020-8129",
         "link": "https://hackerone.com/reports/660563"
     },
     {
-        "id": 5513,
         "cveid": "CVE-2019-9511",
         "link": "https://hackerone.com/reports/783852"
     },
     {
-        "id": 5563,
         "cveid": "CVE-2020-8122",
         "link": "https://hackerone.com/reports/447494"
     },
     {
-        "id": 5570,
         "cveid": "CVE-2020-8119",
         "link": "https://hackerone.com/reports/719426"
     },
     {
-        "id": 5574,
         "cveid": "CVE-2019-15609",
         "link": "https://hackerone.com/reports/661959"
     },
     {
-        "id": 5588,
         "cveid": "CVE-2020-8123",
         "link": "https://hackerone.com/reports/768574"
     },
     {
-        "id": 5590,
         "cveid": "CVE-2020-8116",
         "link": "https://hackerone.com/reports/719856"
     },
     {
-        "id": 5592,
         "cveid": "CVE-2020-8124",
         "link": "https://hackerone.com/reports/496293"
     },
     {
-        "id": 5619,
         "cveid": "CVE-2020-8125",
         "link": "https://hackerone.com/reports/778414"
     },
     {
-        "id": 5626,
         "cveid": "CVE-2020-8115",
         "link": "https://hackerone.com/reports/775693"
     },
     {
-        "id": 5632,
         "cveid": "CVE-2018-6389",
         "link": "https://hackerone.com/reports/753491"
     },
     {
-        "id": 5656,
         "cveid": "CVE-2019-15607",
         "link": "https://hackerone.com/reports/681986"
     },
     {
-        "id": 5661,
         "cveid": "CVE-2019-9787",
         "link": "https://hackerone.com/reports/751876"
     },
     {
-        "id": 5672,
         "cveid": "CVE-2019-16773",
         "link": "https://hackerone.com/reports/509930"
     },
     {
-        "id": 5673,
         "cveid": "CVE-2018-6389",
         "link": "https://hackerone.com/reports/752010"
     },
     {
-        "id": 5690,
         "cveid": "CVE-2019-15603",
         "link": "https://hackerone.com/reports/665302"
     },
     {
-        "id": 5695,
         "cveid": "CVE-2019-15602",
         "link": "https://hackerone.com/reports/507159"
     },
     {
-        "id": 5709,
         "cveid": "CVE-2019-15584",
         "link": "https://hackerone.com/reports/670572"
     },
     {
-        "id": 5732,
         "cveid": "CVE-2019-15575",
         "link": "https://hackerone.com/reports/682442"
     },
     {
-        "id": 5734,
         "cveid": "CVE-2019-5487",
         "link": "https://hackerone.com/reports/692252"
     },
     {
-        "id": 5739,
         "cveid": "CVE-2019-5486",
         "link": "https://hackerone.com/reports/617896"
     },
     {
-        "id": 5742,
         "cveid": "CVE-2019-15589",
         "link": "https://hackerone.com/reports/497047"
     },
     {
-        "id": 5748,
         "cveid": "CVE-2019-15580",
         "link": "https://hackerone.com/reports/667408"
     },
     {
-        "id": 5749,
         "cveid": "CVE-2019-15576",
         "link": "https://hackerone.com/reports/633001"
     },
     {
-        "id": 5750,
         "cveid": "CVE-2019-15577",
         "link": "https://hackerone.com/reports/636560"
     },
     {
-        "id": 5752,
         "cveid": "CVE-2019-0604",
         "link": "https://hackerone.com/reports/536134"
     },
     {
-        "id": 5759,
         "cveid": "CVE-2020-8118",
         "link": "https://hackerone.com/reports/427835"
     },
     {
-        "id": 5762,
         "cveid": "CVE-2019-5469",
         "link": "https://hackerone.com/reports/534794"
     },
     {
-        "id": 5784,
         "cveid": "CVE-2018-3711",
         "link": "https://hackerone.com/reports/303632"
     },
     {
-        "id": 5786,
         "cveid": "CVE-2018-16487",
         "link": "https://hackerone.com/reports/380873"
     },
     {
-        "id": 5787,
         "cveid": "CVE-2019-15600",
         "link": "https://hackerone.com/reports/692262"
     },
     {
-        "id": 5788,
         "cveid": "CVE-2019-15599",
         "link": "https://hackerone.com/reports/701183"
     },
     {
-        "id": 5790,
         "cveid": "CVE-2019-15598",
         "link": "https://hackerone.com/reports/703415"
     },
     {
-        "id": 5792,
         "cveid": "CVE-2019-15597",
         "link": "https://hackerone.com/reports/703412"
     },
     {
-        "id": 5802,
         "cveid": "CVE-2019-11510",
         "link": "https://hackerone.com/reports/678496"
     },
     {
-        "id": 5803,
         "cveid": "CVE-2019-11510",
         "link": "https://hackerone.com/reports/671857"
     },
     {
-        "id": 5804,
         "cveid": "CVE-2019-11510",
         "link": "https://hackerone.com/reports/671749"
     },
     {
-        "id": 5824,
         "cveid": "CVE-2014-4241",
         "link": "https://hackerone.com/reports/300513"
     },
     {
-        "id": 5848,
         "cveid": "CVE-2010-1452",
         "link": "https://hackerone.com/reports/184877"
     },
     {
-        "id": 5860,
         "cveid": "CVE-2019-15623",
         "link": "https://hackerone.com/reports/508490"
     },
     {
-        "id": 5862,
         "cveid": "CVE-2019-15624",
         "link": "https://hackerone.com/reports/508493"
     },
     {
-        "id": 5865,
         "cveid": "CVE-2019-15684",
         "link": "https://hackerone.com/reports/470519"
     },
     {
-        "id": 5866,
         "cveid": "CVE-2019-15688",
         "link": "https://hackerone.com/reports/469372"
     },
     {
-        "id": 5868,
         "cveid": "CVE-2019-15685",
         "link": "https://hackerone.com/reports/470553"
     },
     {
-        "id": 5869,
         "cveid": "CVE-2019-15685",
         "link": "https://hackerone.com/reports/470544"
     },
     {
-        "id": 5870,
         "cveid": "CVE-2019-15685",
         "link": "https://hackerone.com/reports/470547"
     },
     {
-        "id": 5875,
         "cveid": "CVE-2019-15593",
         "link": "https://hackerone.com/reports/557154"
     },
     {
-        "id": 5880,
         "cveid": "CVE-2019-13132",
         "link": "https://hackerone.com/reports/652911"
     },
     {
-        "id": 5894,
         "cveid": "CVE-2019-3403",
         "link": "https://hackerone.com/reports/632808"
     },
     {
-        "id": 5897,
         "cveid": "CVE-2016-2563",
         "link": "https://hackerone.com/reports/120903"
     },
     {
-        "id": 5898,
         "cveid": "CVE-2016-5157",
         "link": "https://hackerone.com/reports/167510"
     },
     {
-        "id": 5899,
         "cveid": "CVE-2016-7163",
         "link": "https://hackerone.com/reports/167512"
     },
     {
-        "id": 5900,
         "cveid": "CVE-2016-3183",
         "link": "https://hackerone.com/reports/167947"
     },
     {
-        "id": 5901,
         "cveid": "CVE-2016-3182",
         "link": "https://hackerone.com/reports/167953"
     },
     {
-        "id": 5902,
         "cveid": "CVE-2016-4796",
         "link": "https://hackerone.com/reports/167955"
     },
     {
-        "id": 5903,
         "cveid": "CVE-2016-1924",
         "link": "https://hackerone.com/reports/167957"
     },
     {
-        "id": 5908,
         "cveid": "CVE-2017-8798",
         "link": "https://hackerone.com/reports/227344"
     },
     {
-        "id": 5909,
         "cveid": "CVE-2017-8114",
         "link": "https://hackerone.com/reports/242119"
     },
     {
-        "id": 5912,
         "cveid": "CVE-2017-16944",
         "link": "https://hackerone.com/reports/296994"
     },
     {
-        "id": 5913,
         "cveid": "CVE-2017-17066",
         "link": "https://hackerone.com/reports/295740"
     },
     {
-        "id": 5914,
         "cveid": "CVE-2017-13089",
         "link": "https://hackerone.com/reports/287666"
     },
     {
-        "id": 5915,
         "cveid": "CVE-2017-13090",
         "link": "https://hackerone.com/reports/287667"
     },
     {
-        "id": 5916,
         "cveid": "CVE-2017-16943",
         "link": "https://hackerone.com/reports/296991"
     },
     {
-        "id": 5917,
         "cveid": "CVE-2017-7658",
         "link": "https://hackerone.com/reports/648434"
     },
     {
-        "id": 5922,
         "cveid": "CVE-2014-0574",
         "link": "https://hackerone.com/reports/37240"
     },
     {
-        "id": 5925,
         "cveid": "CVE-2015-3100",
         "link": "https://hackerone.com/reports/66962"
     },
     {
-        "id": 5926,
         "cveid": "CVE-2016-0990",
         "link": "https://hackerone.com/reports/122254"
     },
     {
-        "id": 5927,
         "cveid": "CVE-2015-3103",
         "link": "https://hackerone.com/reports/119657"
     },
     {
-        "id": 5928,
         "cveid": "CVE-2016-0981",
         "link": "https://hackerone.com/reports/119652"
     },
     {
-        "id": 5929,
         "cveid": "CVE-2016-0982",
         "link": "https://hackerone.com/reports/119653"
     },
     {
-        "id": 5930,
         "cveid": "CVE-2016-0983",
         "link": "https://hackerone.com/reports/119655"
     },
     {
-        "id": 5931,
         "cveid": "CVE-2016-0992",
         "link": "https://hackerone.com/reports/122256"
     },
     {
-        "id": 5932,
         "cveid": "CVE-2016-1098",
         "link": "https://hackerone.com/reports/138516"
     },
     {
-        "id": 5933,
         "cveid": "CVE-2016-1100",
         "link": "https://hackerone.com/reports/138518"
     },
     {
-        "id": 5934,
         "cveid": "CVE-2016-1099",
         "link": "https://hackerone.com/reports/138517"
     },
     {
-        "id": 5935,
         "cveid": "CVE-2016-4150",
         "link": "https://hackerone.com/reports/145265"
     },
     {
-        "id": 5936,
         "cveid": "CVE-2016-4151",
         "link": "https://hackerone.com/reports/145266"
     },
     {
-        "id": 5937,
         "cveid": "CVE-2016-4152",
         "link": "https://hackerone.com/reports/145267"
     },
     {
-        "id": 5938,
         "cveid": "CVE-2016-4153",
         "link": "https://hackerone.com/reports/145269"
     },
     {
-        "id": 5939,
         "cveid": "CVE-2016-4154",
         "link": "https://hackerone.com/reports/145271"
     },
     {
-        "id": 5940,
         "cveid": "CVE-2016-4155",
         "link": "https://hackerone.com/reports/145272"
     },
     {
-        "id": 5941,
         "cveid": "CVE-2016-4182",
         "link": "https://hackerone.com/reports/151039"
     },
     {
-        "id": 5943,
         "cveid": "CVE-2016-4248",
         "link": "https://hackerone.com/reports/151043"
     },
     {
-        "id": 5944,
         "cveid": "CVE-2016-4121",
         "link": "https://hackerone.com/reports/139879"
     },
     {
-        "id": 5946,
         "cveid": "CVE-2017-12814",
         "link": "https://hackerone.com/reports/272497"
     },
     {
-        "id": 5982,
         "cveid": "CVE-2016-7128",
         "link": "https://hackerone.com/reports/160294"
     },
     {
-        "id": 6003,
         "cveid": "CVE-2016-7412",
         "link": "https://hackerone.com/reports/176279"
     },
     {
-        "id": 6033,
         "cveid": "CVE-2017-7189",
         "link": "https://hackerone.com/reports/305974"
     },
     {
-        "id": 6044,
         "cveid": "CVE-2016-5699",
         "link": "https://hackerone.com/reports/165154"
     },
     {
-        "id": 6061,
         "cveid": "CVE-2019-15595",
         "link": "https://hackerone.com/reports/544928"
     },
     {
-        "id": 6114,
         "cveid": "CVE-2019-15893",
         "link": "https://hackerone.com/reports/683965"
     },
     {
-        "id": 6116,
         "cveid": "CVE-2019-15588",
         "link": "https://hackerone.com/reports/688270"
     },
     {
-        "id": 6127,
         "cveid": "CVE-2017-17742",
         "link": "https://hackerone.com/reports/331984"
     },
     {
-        "id": 6128,
         "cveid": "CVE-2018-6798",
         "link": "https://hackerone.com/reports/480778"
     },
     {
-        "id": 6138,
         "cveid": "CVE-2018-14883",
         "link": "https://hackerone.com/reports/384477"
     },
     {
-        "id": 6140,
         "cveid": "CVE-2019-16935",
         "link": "https://hackerone.com/reports/705420"
     },
     {
-        "id": 6141,
-        "cveid": "CVE-2015-3044, CVE-2015-3079",
+        "cveid": "CVE-2015-3044",
         "link": "https://hackerone.com/reports/73276"
     },
     {
-        "id": 6142,
+        "cveid": "CVE-2015-3079",
+        "link": "https://hackerone.com/reports/73276"
+    },
+    {
         "cveid": "CVE-2015-3044",
         "link": "https://hackerone.com/reports/63324"
     },
     {
-        "id": 6143,
         "cveid": "CVE-2015-0346",
         "link": "https://hackerone.com/reports/56385"
     },
     {
-        "id": 6144,
         "cveid": "CVE-2016-4178",
         "link": "https://hackerone.com/reports/150976"
     },
     {
-        "id": 6152,
         "cveid": "CVE-2019-15782",
         "link": "https://hackerone.com/reports/681617"
     },
     {
-        "id": 6157,
         "cveid": "CVE-2019-10082",
         "link": "https://hackerone.com/reports/680415"
     },
     {
-        "id": 6158,
         "cveid": "CVE-2019-10081",
         "link": "https://hackerone.com/reports/677557"
     },
     {
-        "id": 6168,
         "cveid": "CVE-2017-9224",
         "link": "https://hackerone.com/reports/237915"
     },
     {
-        "id": 6169,
         "cveid": "CVE-2017-11144",
         "link": "https://hackerone.com/reports/248609"
     },
     {
-        "id": 6170,
         "cveid": "CVE-2017-11145",
         "link": "https://hackerone.com/reports/248659"
     },
     {
-        "id": 6171,
-        "cveid": "CVE-2017-16642, CVE-2017-11145",
+        "cveid": "CVE-2017-16642",
         "link": "https://hackerone.com/reports/283644"
     },
     {
-        "id": 6172,
+        "cveid": "CVE-2017-11145",
+        "link": "https://hackerone.com/reports/283644"
+    },
+    {
         "cveid": "CVE-2018-7584",
         "link": "https://hackerone.com/reports/320222"
     },
     {
-        "id": 6173,
         "cveid": "CVE-2016-1835",
         "link": "https://hackerone.com/reports/293126"
     },
     {
-        "id": 6174,
         "cveid": "CVE-2017-11628",
         "link": "https://hackerone.com/reports/248601"
     },
     {
-        "id": 6176,
         "cveid": "CVE-2017-12799",
         "link": "https://hackerone.com/reports/323017"
     },
     {
-        "id": 6177,
         "cveid": "CVE-2017-8779",
         "link": "https://hackerone.com/reports/235016"
     },
     {
-        "id": 6178,
         "cveid": "CVE-2017-7521",
         "link": "https://hackerone.com/reports/242579"
     },
     {
-        "id": 6179,
         "cveid": "CVE-2017-10966",
         "link": "https://hackerone.com/reports/247028"
     },
     {
-        "id": 6188,
         "cveid": "CVE-2015-8874",
         "link": "https://hackerone.com/reports/146936"
     },
     {
-        "id": 6249,
         "cveid": "CVE-2017-9248",
         "link": "https://hackerone.com/reports/491668"
     },
     {
-        "id": 6257,
         "cveid": "CVE-2017-12858",
         "link": "https://hackerone.com/reports/260414"
     },
     {
-        "id": 6259,
         "cveid": "CVE-2017-12986",
         "link": "https://hackerone.com/reports/268804"
     },
     {
-        "id": 6260,
         "cveid": "CVE-2017-13038",
         "link": "https://hackerone.com/reports/268808"
     },
     {
-        "id": 6261,
         "cveid": "CVE-2017-13010",
         "link": "https://hackerone.com/reports/268807"
     },
     {
-        "id": 6262,
         "cveid": "CVE-2017-13009",
         "link": "https://hackerone.com/reports/268806"
     },
     {
-        "id": 6263,
         "cveid": "CVE-2017-12985",
         "link": "https://hackerone.com/reports/268803"
     },
     {
-        "id": 6264,
         "cveid": "CVE-2017-5482",
         "link": "https://hackerone.com/reports/202969"
     },
     {
-        "id": 6265,
         "cveid": "CVE-2017-5342",
         "link": "https://hackerone.com/reports/202968"
     },
     {
-        "id": 6266,
         "cveid": "CVE-2017-5484",
         "link": "https://hackerone.com/reports/202967"
     },
     {
-        "id": 6267,
         "cveid": "CVE-2017-5341",
         "link": "https://hackerone.com/reports/202965"
     },
     {
-        "id": 6268,
         "cveid": "CVE-2017-5204",
         "link": "https://hackerone.com/reports/202960"
     },
     {
-        "id": 6273,
         "cveid": "CVE-2017-9506",
         "link": "https://hackerone.com/reports/326040"
     },
     {
-        "id": 6274,
         "cveid": "CVE-2017-10366",
         "link": "https://hackerone.com/reports/329376"
     },
     {
-        "id": 6275,
         "cveid": "CVE-2017-10366",
         "link": "https://hackerone.com/reports/329399"
     },
     {
-        "id": 6276,
         "cveid": "CVE-2017-10366",
         "link": "https://hackerone.com/reports/329400"
     },
     {
-        "id": 6287,
         "cveid": "CVE-2017-5929",
         "link": "https://hackerone.com/reports/272979"
     },
     {
-        "id": 6289,
         "cveid": "CVE-2017-10352",
         "link": "https://hackerone.com/reports/634630"
     },
     {
-        "id": 6291,
         "cveid": "CVE-2019-15596",
         "link": "https://hackerone.com/reports/695416"
     },
     {
-        "id": 6298,
         "cveid": "CVE-2016-9273",
         "link": "https://hackerone.com/reports/181642"
     },
     {
-        "id": 6299,
         "cveid": "CVE-2016-9297",
         "link": "https://hackerone.com/reports/182140"
     },
     {
-        "id": 6300,
         "cveid": "CVE-2017-11367",
         "link": "https://hackerone.com/reports/250581"
     },
     {
-        "id": 6301,
         "cveid": "CVE-2017-10965",
         "link": "https://hackerone.com/reports/247027"
     },
     {
-        "id": 6302,
         "cveid": "CVE-2017-5969",
         "link": "https://hackerone.com/reports/262665"
     },
     {
-        "id": 6307,
         "cveid": "CVE-2015-7700",
         "link": "https://hackerone.com/reports/93546"
     },
     {
-        "id": 6308,
         "cveid": "CVE-2015-2158",
         "link": "https://hackerone.com/reports/73429"
     },
     {
-        "id": 6318,
         "cveid": "CVE-2019-3396",
         "link": "https://hackerone.com/reports/538771"
     },
     {
-        "id": 6321,
         "cveid": "CVE-2018-0296",
         "link": "https://hackerone.com/reports/622864"
     },
     {
-        "id": 6322,
         "cveid": "CVE-2019-11580",
         "link": "https://hackerone.com/reports/632721"
     },
     {
-        "id": 6323,
         "cveid": "CVE-2012-6708",
         "link": "https://hackerone.com/reports/519061"
     },
     {
-        "id": 6339,
         "cveid": "CVE-2019-1543",
         "link": "https://hackerone.com/reports/506040"
     },
     {
-        "id": 6346,
         "cveid": "CVE-2018-8970",
         "link": "https://hackerone.com/reports/329645"
     },
     {
-        "id": 6347,
         "cveid": "CVE-2019-5736",
         "link": "https://hackerone.com/reports/495495"
     },
     {
-        "id": 6348,
         "cveid": "CVE-2018-6789",
         "link": "https://hackerone.com/reports/322935"
     },
     {
-        "id": 6349,
         "cveid": "CVE-2017-17458",
         "link": "https://hackerone.com/reports/294147"
     },
     {
-        "id": 6351,
         "cveid": "CVE-2019-16108",
         "link": "https://hackerone.com/reports/587727"
     },
     {
-        "id": 6363,
         "cveid": "CVE-2018-18313",
         "link": "https://hackerone.com/reports/510888"
     },
     {
-        "id": 6364,
         "cveid": "CVE-2018-18312",
         "link": "https://hackerone.com/reports/510887"
     },
     {
-        "id": 6367,
         "cveid": "CVE-2019-1552",
         "link": "https://hackerone.com/reports/683318"
     },
     {
-        "id": 6407,
-        "cveid": "CVE-2019-0211, CVE-2019-6977",
+        "cveid": "CVE-2019-0211",
         "link": "https://hackerone.com/reports/520903"
     },
     {
-        "id": 6409,
+        "cveid": "CVE-2019-6977",
+        "link": "https://hackerone.com/reports/520903"
+    },
+    {
         "cveid": "CVE-2017-1000112",
         "link": "https://hackerone.com/reports/684573"
     },
     {
-        "id": 6410,
         "cveid": "CVE-2017-7308",
         "link": "https://hackerone.com/reports/684567"
     },
     {
-        "id": 6412,
         "cveid": "CVE-2019-0196",
         "link": "https://hackerone.com/reports/527042"
     },
     {
-        "id": 6413,
         "cveid": "CVE-2019-5484",
         "link": "https://hackerone.com/reports/492512"
     },
     {
-        "id": 6436,
         "cveid": "CVE-2019-5483",
         "link": "https://hackerone.com/reports/526258"
     },
     {
-        "id": 6439,
         "cveid": "CVE-2019-5463",
         "link": "https://hackerone.com/reports/477222"
     },
     {
-        "id": 6448,
         "cveid": "CVE-2019-5471",
         "link": "https://hackerone.com/reports/496973"
     },
     {
-        "id": 6449,
         "cveid": "CVE-2019-5473",
         "link": "https://hackerone.com/reports/565883"
     },
     {
-        "id": 6450,
         "cveid": "CVE-2019-5461",
         "link": "https://hackerone.com/reports/446593"
     },
     {
-        "id": 6454,
         "cveid": "CVE-2020-8120",
         "link": "https://hackerone.com/reports/605915"
     },
     {
-        "id": 6457,
         "cveid": "CVE-2020-8130",
         "link": "https://hackerone.com/reports/651518"
     },
     {
-        "id": 6481,
         "cveid": "CVE-2017-6074",
         "link": "https://hackerone.com/reports/347282"
     },
     {
-        "id": 6492,
         "cveid": "CVE-2019-5480",
         "link": "https://hackerone.com/reports/570035"
     },
     {
-        "id": 6496,
         "cveid": "CVE-2019-5456",
         "link": "https://hackerone.com/reports/519582"
     },
     {
-        "id": 6501,
         "cveid": "CVE-2019-5475",
         "link": "https://hackerone.com/reports/654888"
     },
     {
-        "id": 6503,
         "cveid": "CVE-2019-5479",
         "link": "https://hackerone.com/reports/566056"
     },
     {
-        "id": 6528,
         "cveid": "CVE-2019-5448",
         "link": "https://hackerone.com/reports/640904"
     },
     {
-        "id": 6534,
         "cveid": "CVE-2019-11510",
         "link": "https://hackerone.com/reports/591295"
     },
     {
-        "id": 6573,
         "cveid": "CVE-2019-15622",
         "link": "https://hackerone.com/reports/518669"
     },
     {
-        "id": 6584,
         "cveid": "CVE-2019-5450",
         "link": "https://hackerone.com/reports/631227"
     },
     {
-        "id": 6585,
         "cveid": "CVE-2019-5451",
         "link": "https://hackerone.com/reports/507172"
     },
     {
-        "id": 6586,
         "cveid": "CVE-2019-5452",
         "link": "https://hackerone.com/reports/534541"
     },
     {
-        "id": 6587,
         "cveid": "CVE-2019-5455",
         "link": "https://hackerone.com/reports/490946"
     },
     {
-        "id": 6588,
         "cveid": "CVE-2019-5454",
         "link": "https://hackerone.com/reports/291764"
     },
     {
-        "id": 6589,
         "cveid": "CVE-2019-5453",
         "link": "https://hackerone.com/reports/331489"
     },
     {
-        "id": 6592,
         "cveid": "CVE-2019-5458",
         "link": "https://hackerone.com/reports/570563"
     },
     {
-        "id": 6593,
         "cveid": "CVE-2019-5457",
         "link": "https://hackerone.com/reports/570568"
     },
     {
-        "id": 6594,
         "cveid": "CVE-2019-5459",
         "link": "https://hackerone.com/reports/502816"
     },
     {
-        "id": 6595,
         "cveid": "CVE-2019-5460",
         "link": "https://hackerone.com/reports/503208"
     },
     {
-        "id": 6606,
         "cveid": "CVE-2019-5476",
         "link": "https://hackerone.com/reports/508487"
     },
     {
-        "id": 6644,
         "cveid": "CVE-2019-5447",
         "link": "https://hackerone.com/reports/570133"
     },
     {
-        "id": 6653,
         "cveid": "CVE-2019-3396",
         "link": "https://hackerone.com/reports/536130"
     },
     {
-        "id": 6698,
         "cveid": "CVE-2017-10271",
         "link": "https://hackerone.com/reports/576887"
     },
     {
-        "id": 6703,
         "cveid": "CVE-2019-5443",
         "link": "https://hackerone.com/reports/608577"
     },
     {
-        "id": 6710,
         "cveid": "CVE-2020-8121",
         "link": "https://hackerone.com/reports/452854"
     },
     {
-        "id": 6724,
         "cveid": "CVE-2019-5444",
         "link": "https://hackerone.com/reports/569966"
     },
     {
-        "id": 6747,
         "cveid": "CVE-2018-0296",
         "link": "https://hackerone.com/reports/377542"
     },
     {
-        "id": 6766,
         "cveid": "CVE-2019-5439",
         "link": "https://hackerone.com/reports/484398"
     },
     {
-        "id": 6773,
         "cveid": "CVE-2019-5442",
         "link": "https://hackerone.com/reports/506791"
     },
     {
-        "id": 6797,
         "cveid": "CVE-2010-0185",
         "link": "https://hackerone.com/reports/471941"
     },
     {
-        "id": 6818,
         "cveid": "CVE-2019-5436",
         "link": "https://hackerone.com/reports/550696"
     },
     {
-        "id": 6822,
         "cveid": "CVE-2019-5441",
         "link": "https://hackerone.com/reports/546753"
     },
     {
-        "id": 6823,
         "cveid": "CVE-2019-13075",
         "link": "https://hackerone.com/reports/588239"
     },
     {
-        "id": 6848,
         "cveid": "CVE-2018-0296",
         "link": "https://hackerone.com/reports/378698"
     },
     {
-        "id": 6869,
         "cveid": "CVE-2018-1000861",
         "link": "https://hackerone.com/reports/579760"
     },
     {
-        "id": 6879,
         "cveid": "CVE-2014-3566",
         "link": "https://hackerone.com/reports/514421"
     },
     {
-        "id": 6918,
         "cveid": "CVE-2019-5430",
         "link": "https://hackerone.com/reports/329749"
     },
     {
-        "id": 6919,
         "cveid": "CVE-2019-5432",
         "link": "https://hackerone.com/reports/541354"
     },
     {
-        "id": 6937,
         "cveid": "CVE-2019-5433",
         "link": "https://hackerone.com/reports/390663"
     },
     {
-        "id": 6949,
         "cveid": "CVE-2019-5427",
         "link": "https://hackerone.com/reports/509315"
     },
     {
-        "id": 6978,
         "cveid": "CVE-2019-5438",
         "link": "https://hackerone.com/reports/530289"
     },
     {
-        "id": 6995,
         "cveid": "CVE-2019-5437",
         "link": "https://hackerone.com/reports/453820"
     },
     {
-        "id": 7021,
         "cveid": "CVE-2020-8214",
         "link": "https://hackerone.com/reports/355501"
     },
     {
-        "id": 7022,
         "cveid": "CVE-2020-8215",
         "link": "https://hackerone.com/reports/315037"
     },
     {
-        "id": 7027,
         "cveid": "CVE-2020-8141",
         "link": "https://hackerone.com/reports/390929"
     },
     {
-        "id": 7028,
         "cveid": "CVE-2019-11358",
         "link": "https://hackerone.com/reports/454365"
     },
     {
-        "id": 7034,
         "cveid": "CVE-2019-5426",
         "link": "https://hackerone.com/reports/512958"
     },
     {
-        "id": 7035,
         "cveid": "CVE-2019-5425",
         "link": "https://hackerone.com/reports/511025"
     },
     {
-        "id": 7036,
         "cveid": "CVE-2019-5424",
         "link": "https://hackerone.com/reports/508256"
     },
     {
-        "id": 7073,
         "cveid": "CVE-2019-5420",
         "link": "https://hackerone.com/reports/473888"
     },
     {
-        "id": 7173,
         "cveid": "CVE-2019-5484",
         "link": "https://hackerone.com/reports/473811"
     },
     {
-        "id": 7218,
         "cveid": "CVE-2019-5414",
         "link": "https://hackerone.com/reports/389561"
     },
     {
-        "id": 7223,
         "cveid": "CVE-2018-16493",
         "link": "https://hackerone.com/reports/432600"
     },
     {
-        "id": 7233,
         "cveid": "CVE-2018-16479",
         "link": "https://hackerone.com/reports/411405"
     },
     {
-        "id": 7235,
         "cveid": "CVE-2018-16477",
         "link": "https://hackerone.com/reports/407319"
     },
     {
-        "id": 7294,
         "cveid": "CVE-2017-0902",
         "link": "https://hackerone.com/reports/274267"
     },
     {
-        "id": 7306,
         "cveid": "CVE-2018-16470",
         "link": "https://hackerone.com/reports/431561"
     },
     {
-        "id": 7317,
         "cveid": "CVE-2018-16491",
         "link": "https://hackerone.com/reports/430831"
     },
     {
-        "id": 7322,
         "cveid": "CVE-2018-16490",
         "link": "https://hackerone.com/reports/390860"
     },
     {
-        "id": 7325,
         "cveid": "CVE-2018-16489",
         "link": "https://hackerone.com/reports/430291"
     },
     {
-        "id": 7330,
         "cveid": "CVE-2017-12932",
         "link": "https://hackerone.com/reports/261335"
     },
     {
-        "id": 7331,
         "cveid": "CVE-2017-12933",
         "link": "https://hackerone.com/reports/261336"
     },
     {
-        "id": 7332,
         "cveid": "CVE-2017-12934",
         "link": "https://hackerone.com/reports/261338"
     },
     {
-        "id": 7343,
         "cveid": "CVE-2018-16478",
         "link": "https://hackerone.com/reports/403703"
     },
     {
-        "id": 7431,
         "cveid": "CVE-2018-16472",
         "link": "https://hackerone.com/reports/390847"
     },
     {
-        "id": 7432,
         "cveid": "CVE-2018-16474",
         "link": "https://hackerone.com/reports/403692"
     },
     {
-        "id": 7433,
         "cveid": "CVE-2018-16473",
         "link": "https://hackerone.com/reports/403736"
     },
     {
-        "id": 7434,
         "cveid": "CVE-2018-16475",
         "link": "https://hackerone.com/reports/403707"
     },
     {
-        "id": 7441,
         "cveid": "CVE-2018-14647",
         "link": "https://hackerone.com/reports/412673"
     },
     {
-        "id": 7442,
         "cveid": "CVE-2018-6913",
         "link": "https://hackerone.com/reports/354650"
     },
     {
-        "id": 7451,
         "cveid": "CVE-2018-1333",
         "link": "https://hackerone.com/reports/384839"
     },
     {
-        "id": 7452,
         "cveid": "CVE-2019-5413",
         "link": "https://hackerone.com/reports/390881"
     },
     {
-        "id": 7457,
         "cveid": "CVE-2018-16463",
         "link": "https://hackerone.com/reports/237184"
     },
     {
-        "id": 7458,
         "cveid": "CVE-2018-16464",
         "link": "https://hackerone.com/reports/146133"
     },
     {
-        "id": 7482,
         "cveid": "CVE-2018-16395",
         "link": "https://hackerone.com/reports/387250"
     },
     {
-        "id": 7498,
         "cveid": "CVE-2018-16462",
         "link": "https://hackerone.com/reports/405694"
     },
     {
-        "id": 7512,
         "cveid": "CVE-2018-16461",
         "link": "https://hackerone.com/reports/390865"
     },
     {
-        "id": 7551,
         "cveid": "CVE-2018-17082",
         "link": "https://hackerone.com/reports/409986"
     },
     {
-        "id": 7552,
         "cveid": "CVE-2016-4975",
         "link": "https://hackerone.com/reports/409512"
     },
     {
-        "id": 7573,
         "cveid": "CVE-2018-16469",
         "link": "https://hackerone.com/reports/381194"
     },
     {
-        "id": 7574,
         "cveid": "CVE-2018-16486",
         "link": "https://hackerone.com/reports/380878"
     },
     {
-        "id": 7584,
         "cveid": "CVE-2018-16465",
         "link": "https://hackerone.com/reports/317711"
     },
     {
-        "id": 7592,
-        "cveid": "CVE-2018-16467, CVE-2019-5449",
+        "cveid": "CVE-2018-16467",
         "link": "https://hackerone.com/reports/231917"
     },
     {
-        "id": 7594,
+        "cveid": "CVE-2019-5449",
+        "link": "https://hackerone.com/reports/231917"
+    },
+    {
         "cveid": "CVE-2018-16466",
         "link": "https://hackerone.com/reports/388515"
     },
     {
-        "id": 7618,
         "cveid": "CVE-2018-0732",
         "link": "https://hackerone.com/reports/364964"
     },
     {
-        "id": 7639,
         "cveid": "CVE-2019-5423",
         "link": "https://hackerone.com/reports/384939"
     },
     {
-        "id": 7667,
         "cveid": "CVE-2018-16460",
         "link": "https://hackerone.com/reports/390848"
     },
     {
-        "id": 7686,
         "cveid": "CVE-2018-16459",
         "link": "https://hackerone.com/reports/356809"
     },
     {
-        "id": 7687,
         "cveid": "CVE-2018-12882",
         "link": "https://hackerone.com/reports/371135"
     },
     {
-        "id": 7688,
         "cveid": "CVE-2018-14851",
         "link": "https://hackerone.com/reports/384214"
     },
     {
-        "id": 7694,
         "cveid": "CVE-2018-3787",
         "link": "https://hackerone.com/reports/357109"
     },
     {
-        "id": 7716,
         "cveid": "CVE-2018-16492",
         "link": "https://hackerone.com/reports/381185"
     },
     {
-        "id": 7721,
         "cveid": "CVE-2018-3786",
         "link": "https://hackerone.com/reports/388936"
     },
     {
-        "id": 7741,
         "cveid": "CVE-2018-3783",
         "link": "https://hackerone.com/reports/386807"
     },
     {
-        "id": 7746,
         "cveid": "CVE-2018-1002203",
         "link": "https://hackerone.com/reports/362119"
     },
     {
-        "id": 7747,
         "cveid": "CVE-2018-1002204",
         "link": "https://hackerone.com/reports/362118"
     },
     {
-        "id": 7764,
         "cveid": "CVE-2018-3781",
         "link": "https://hackerone.com/reports/383117"
     },
     {
-        "id": 7766,
         "cveid": "CVE-2018-3779",
         "link": "https://hackerone.com/reports/392311"
     },
     {
-        "id": 7797,
         "cveid": "CVE-2018-3774",
         "link": "https://hackerone.com/reports/384029"
     },
     {
-        "id": 7798,
         "cveid": "CVE-2018-3776",
         "link": "https://hackerone.com/reports/232347"
     },
     {
-        "id": 7799,
         "cveid": "CVE-2018-3775",
         "link": "https://hackerone.com/reports/248656"
     },
     {
-        "id": 7826,
         "cveid": "CVE-2018-3761",
         "link": "https://hackerone.com/reports/343111"
     },
     {
-        "id": 7827,
         "cveid": "CVE-2018-3770",
         "link": "https://hackerone.com/reports/360727"
     },
     {
-        "id": 7834,
         "cveid": "CVE-2018-3760",
         "link": "https://hackerone.com/reports/307808"
     },
     {
-        "id": 7843,
         "cveid": "CVE-2018-10379",
         "link": "https://hackerone.com/reports/346217"
     },
     {
-        "id": 7844,
         "cveid": "CVE-2018-10379",
         "link": "https://hackerone.com/reports/346111"
     },
     {
-        "id": 7851,
         "cveid": "CVE-2018-3771",
         "link": "https://hackerone.com/reports/355458"
     },
     {
-        "id": 7855,
         "cveid": "CVE-2018-16484",
         "link": "https://hackerone.com/reports/319794"
     },
     {
-        "id": 7856,
         "cveid": "CVE-2018-16485",
         "link": "https://hackerone.com/reports/319795"
     },
     {
-        "id": 7857,
         "cveid": "CVE-2018-16483",
         "link": "https://hackerone.com/reports/343626"
     },
     {
-        "id": 7865,
         "cveid": "CVE-2018-9863",
         "link": "https://hackerone.com/reports/362702"
     },
     {
-        "id": 7874,
         "cveid": "CVE-2019-5422",
         "link": "https://hackerone.com/reports/331110"
     },
     {
-        "id": 7883,
         "cveid": "CVE-2019-5417",
         "link": "https://hackerone.com/reports/358645"
     },
     {
-        "id": 7892,
         "cveid": "CVE-2018-3767",
         "link": "https://hackerone.com/reports/319809"
     },
     {
-        "id": 7893,
         "cveid": "CVE-2018-3766",
         "link": "https://hackerone.com/reports/358112"
     },
     {
-        "id": 7906,
         "cveid": "CVE-2018-3784",
         "link": "https://hackerone.com/reports/350418"
     },
     {
-        "id": 7921,
         "cveid": "CVE-2018-3785",
         "link": "https://hackerone.com/reports/341710"
     },
     {
-        "id": 7923,
         "cveid": "CVE-2018-3762",
         "link": "https://hackerone.com/reports/358339"
     },
     {
-        "id": 7938,
         "cveid": "CVE-2018-16482",
         "link": "https://hackerone.com/reports/330285"
     },
     {
-        "id": 7939,
         "cveid": "CVE-2018-16481",
         "link": "https://hackerone.com/reports/330356"
     },
     {
-        "id": 7940,
         "cveid": "CVE-2018-16480",
         "link": "https://hackerone.com/reports/329950"
     },
     {
-        "id": 7987,
         "cveid": "CVE-2018-3758",
         "link": "https://hackerone.com/reports/343726"
     },
     {
-        "id": 7989,
         "cveid": "CVE-2018-10549",
         "link": "https://hackerone.com/reports/344035"
     },
     {
-        "id": 7991,
         "cveid": "CVE-2018-3809",
         "link": "https://hackerone.com/reports/330650"
     },
     {
-        "id": 7994,
         "cveid": "CVE-2019-5416",
         "link": "https://hackerone.com/reports/334837"
     },
     {
-        "id": 7995,
         "cveid": "CVE-2019-5415",
         "link": "https://hackerone.com/reports/330724"
     },
     {
-        "id": 8000,
         "cveid": "CVE-2018-3757",
         "link": "https://hackerone.com/reports/340208"
     },
     {
-        "id": 8030,
         "cveid": "CVE-2018-3743",
         "link": "https://hackerone.com/reports/320693"
     },
     {
-        "id": 8032,
         "cveid": "CVE-2018-6797",
         "link": "https://hackerone.com/reports/337986"
     },
     {
-        "id": 8033,
         "cveid": "CVE-2018-3744",
         "link": "https://hackerone.com/reports/306607"
     },
     {
-        "id": 8034,
         "cveid": "CVE-2018-3754",
         "link": "https://hackerone.com/reports/311244"
     },
     {
-        "id": 8045,
         "cveid": "CVE-2017-1000257",
         "link": "https://hackerone.com/reports/278231"
     },
     {
-        "id": 8046,
         "cveid": "CVE-2017-1000101",
         "link": "https://hackerone.com/reports/255587"
     },
     {
-        "id": 8065,
         "cveid": "CVE-2020-8298",
         "link": "https://hackerone.com/reports/324491"
     },
     {
-        "id": 8093,
         "cveid": "CVE-2017-9798",
         "link": "https://hackerone.com/reports/269568"
     },
     {
-        "id": 8116,
         "cveid": "CVE-2017-17742",
         "link": "https://hackerone.com/reports/153794"
     },
     {
-        "id": 8121,
         "cveid": "CVE-2018-6389",
         "link": "https://hackerone.com/reports/335177"
     },
     {
-        "id": 8128,
         "cveid": "CVE-2017-0918",
         "link": "https://hackerone.com/reports/301432"
     },
     {
-        "id": 8129,
         "cveid": "CVE-2017-0916",
         "link": "https://hackerone.com/reports/299473"
     },
     {
-        "id": 8130,
         "cveid": "CVE-2017-0915",
         "link": "https://hackerone.com/reports/298873"
     },
     {
-        "id": 8131,
         "cveid": "CVE-2017-0914",
         "link": "https://hackerone.com/reports/298176"
     },
     {
-        "id": 8172,
         "cveid": "CVE-2018-3730",
         "link": "https://hackerone.com/reports/312907"
     },
     {
-        "id": 8189,
         "cveid": "CVE-2018-3746",
         "link": "https://hackerone.com/reports/330957"
     },
     {
-        "id": 8195,
         "cveid": "CVE-2013-2165",
         "link": "https://hackerone.com/reports/235605"
     },
     {
-        "id": 8196,
         "cveid": "CVE-2017-10366",
         "link": "https://hackerone.com/reports/329397"
     },
     {
-        "id": 8199,
         "cveid": "CVE-2017-9506",
         "link": "https://hackerone.com/reports/330860"
     },
     {
-        "id": 8205,
         "cveid": "CVE-2018-3753",
         "link": "https://hackerone.com/reports/310706"
     },
     {
-        "id": 8206,
         "cveid": "CVE-2018-3752",
         "link": "https://hackerone.com/reports/311336"
     },
     {
-        "id": 8207,
         "cveid": "CVE-2018-3751",
         "link": "https://hackerone.com/reports/311337"
     },
     {
-        "id": 8208,
         "cveid": "CVE-2018-3750",
         "link": "https://hackerone.com/reports/311333"
     },
     {
-        "id": 8209,
         "cveid": "CVE-2018-3749",
         "link": "https://hackerone.com/reports/310446"
     },
     {
-        "id": 8210,
         "cveid": "CVE-2018-3748",
         "link": "https://hackerone.com/reports/310133"
     },
     {
-        "id": 8211,
         "cveid": "CVE-2018-3747",
         "link": "https://hackerone.com/reports/316346"
     },
     {
-        "id": 8237,
         "cveid": "CVE-2018-3745",
         "link": "https://hackerone.com/reports/321686"
     },
     {
-        "id": 8251,
         "cveid": "CVE-2018-3733",
         "link": "https://hackerone.com/reports/310690"
     },
     {
-        "id": 8263,
         "cveid": "CVE-2018-6914",
         "link": "https://hackerone.com/reports/302298"
     },
     {
-        "id": 8264,
         "cveid": "CVE-2018-8780",
         "link": "https://hackerone.com/reports/302338"
     },
     {
-        "id": 8265,
         "cveid": "CVE-2018-3738",
         "link": "https://hackerone.com/reports/319576"
     },
     {
-        "id": 8267,
         "cveid": "CVE-2018-8779",
         "link": "https://hackerone.com/reports/302997"
     },
     {
-        "id": 8270,
         "cveid": "CVE-2018-8778",
         "link": "https://hackerone.com/reports/298246"
     },
     {
-        "id": 8276,
         "cveid": "CVE-2014-7829",
         "link": "https://hackerone.com/reports/329218"
     },
     {
-        "id": 8279,
         "cveid": "CVE-2018-3772",
         "link": "https://hackerone.com/reports/319476"
     },
     {
-        "id": 8280,
         "cveid": "CVE-2018-3773",
         "link": "https://hackerone.com/reports/309367"
     },
     {
-        "id": 8284,
         "cveid": "CVE-2018-3741",
         "link": "https://hackerone.com/reports/328270"
     },
     {
-        "id": 8299,
         "cveid": "CVE-2014-3566",
         "link": "https://hackerone.com/reports/318594"
     },
     {
-        "id": 8309,
         "cveid": "CVE-2018-3718",
         "link": "https://hackerone.com/reports/308721"
     },
     {
-        "id": 8313,
         "cveid": "CVE-2018-3724",
         "link": "https://hackerone.com/reports/310943"
     },
     {
-        "id": 8317,
         "cveid": "CVE-2017-15277",
         "link": "https://hackerone.com/reports/315906"
     },
     {
-        "id": 8319,
         "cveid": "CVE-2018-3714",
         "link": "https://hackerone.com/reports/309124"
     },
     {
-        "id": 8320,
         "cveid": "CVE-2017-0913",
         "link": "https://hackerone.com/reports/301406"
     },
     {
-        "id": 8321,
         "cveid": "CVE-2018-3734",
         "link": "https://hackerone.com/reports/319003"
     },
     {
-        "id": 8330,
         "cveid": "CVE-2018-3715",
         "link": "https://hackerone.com/reports/310106"
     },
     {
-        "id": 8339,
         "cveid": "CVE-2018-3717",
         "link": "https://hackerone.com/reports/309641"
     },
     {
-        "id": 8340,
         "cveid": "CVE-2018-3713",
         "link": "https://hackerone.com/reports/309120"
     },
     {
-        "id": 8348,
         "cveid": "CVE-2018-3725",
         "link": "https://hackerone.com/reports/311218"
     },
     {
-        "id": 8349,
         "cveid": "CVE-2018-3716",
         "link": "https://hackerone.com/reports/309648"
     },
     {
-        "id": 8350,
         "cveid": "CVE-2018-3717",
         "link": "https://hackerone.com/reports/309394"
     },
     {
-        "id": 8351,
         "cveid": "CVE-2018-3727",
         "link": "https://hackerone.com/reports/311216"
     },
     {
-        "id": 8352,
         "cveid": "CVE-2018-3729",
         "link": "https://hackerone.com/reports/312889"
     },
     {
-        "id": 8367,
         "cveid": "CVE-2018-3732",
         "link": "https://hackerone.com/reports/315760"
     },
     {
-        "id": 8370,
         "cveid": "CVE-2014-3566",
         "link": "https://hackerone.com/reports/288966"
     },
     {
-        "id": 8382,
         "cveid": "CVE-2018-3726",
         "link": "https://hackerone.com/reports/311101"
     },
     {
-        "id": 8383,
         "cveid": "CVE-2018-3731",
         "link": "https://hackerone.com/reports/312918"
     },
     {
-        "id": 8389,
         "cveid": "CVE-2018-3723",
         "link": "https://hackerone.com/reports/310514"
     },
     {
-        "id": 8390,
         "cveid": "CVE-2018-3722",
         "link": "https://hackerone.com/reports/310708"
     },
     {
-        "id": 8391,
         "cveid": "CVE-2018-3720",
         "link": "https://hackerone.com/reports/310707"
     },
     {
-        "id": 8392,
         "cveid": "CVE-2018-3719",
         "link": "https://hackerone.com/reports/311236"
     },
     {
-        "id": 8398,
         "cveid": "CVE-2018-3728",
         "link": "https://hackerone.com/reports/310439"
     },
     {
-        "id": 8399,
         "cveid": "CVE-2018-3721",
         "link": "https://hackerone.com/reports/310443"
     },
     {
-        "id": 8408,
         "cveid": "CVE-2017-0931",
         "link": "https://hackerone.com/reports/308155"
     },
     {
-        "id": 8412,
         "cveid": "CVE-2017-0936",
         "link": "https://hackerone.com/reports/297751"
     },
     {
-        "id": 8414,
         "cveid": "CVE-2016-6317",
         "link": "https://hackerone.com/reports/139321"
     },
     {
-        "id": 8415,
         "cveid": "CVE-2017-15277",
         "link": "https://hackerone.com/reports/302885"
     },
     {
-        "id": 8418,
         "cveid": "CVE-2016-0752",
         "link": "https://hackerone.com/reports/113831"
     },
     {
-        "id": 8419,
         "cveid": "CVE-2016-0752",
         "link": "https://hackerone.com/reports/113928"
     },
     {
-        "id": 8426,
         "cveid": "CVE-2017-0928",
         "link": "https://hackerone.com/reports/308158"
     },
     {
-        "id": 8458,
         "cveid": "CVE-2017-15277",
         "link": "https://hackerone.com/reports/294548"
     },
     {
-        "id": 8463,
         "cveid": "CVE-2018-3712",
         "link": "https://hackerone.com/reports/307666"
     },
     {
-        "id": 8464,
         "cveid": "CVE-2017-0930",
         "link": "https://hackerone.com/reports/296282"
     },
     {
-        "id": 8489,
         "cveid": "CVE-2016-8624",
         "link": "https://hackerone.com/reports/180434"
     },
     {
-        "id": 8495,
         "cveid": "CVE-2016-6305",
         "link": "https://hackerone.com/reports/288993"
     },
     {
-        "id": 8551,
-        "cveid": "CVE-2005-2169, CVE-2005-0202",
+        "cveid": "CVE-2005-2169",
         "link": "https://hackerone.com/reports/298862"
     },
     {
-        "id": 8562,
+        "cveid": "CVE-2005-0202",
+        "link": "https://hackerone.com/reports/298862"
+    },
+    {
         "cveid": "CVE-2016-6914",
         "link": "https://hackerone.com/reports/140793"
     },
     {
-        "id": 8568,
         "cveid": "CVE-2017-17405",
         "link": "https://hackerone.com/reports/294462"
     },
     {
-        "id": 8603,
         "cveid": "CVE-2015-3226",
         "link": "https://hackerone.com/reports/47280"
     },
     {
-        "id": 8608,
         "cveid": "CVE-2017-0935",
         "link": "https://hackerone.com/reports/242407"
     },
     {
-        "id": 8640,
         "cveid": "CVE-2017-0932",
         "link": "https://hackerone.com/reports/239719"
     },
     {
-        "id": 8641,
         "cveid": "CVE-2017-0933",
         "link": "https://hackerone.com/reports/240098"
     },
     {
-        "id": 8642,
         "cveid": "CVE-2017-0934",
         "link": "https://hackerone.com/reports/241044"
     },
     {
-        "id": 8666,
         "cveid": "CVE-2017-0909",
         "link": "https://hackerone.com/reports/288950"
     },
     {
-        "id": 8697,
         "cveid": "CVE-2016-2183",
         "link": "https://hackerone.com/reports/199436"
     },
     {
-        "id": 8718,
         "cveid": "CVE-2017-0904",
         "link": "https://hackerone.com/reports/287245"
     },
     {
-        "id": 8723,
         "cveid": "CVE-2017-0903",
         "link": "https://hackerone.com/reports/274990"
     },
     {
-        "id": 8751,
         "cveid": "CVE-2017-13077",
         "link": "https://hackerone.com/reports/286740"
     },
     {
-        "id": 8811,
         "cveid": "CVE-2014-9130",
         "link": "https://hackerone.com/reports/235842"
     },
     {
-        "id": 8828,
         "cveid": "CVE-2016-1964",
         "link": "https://hackerone.com/reports/126797"
     },
     {
-        "id": 8985,
         "cveid": "CVE-2017-14064",
         "link": "https://hackerone.com/reports/209949"
     },
     {
-        "id": 8995,
         "cveid": "CVE-2017-0898",
         "link": "https://hackerone.com/reports/212241"
     },
     {
-        "id": 8998,
         "cveid": "CVE-2017-9800",
         "link": "https://hackerone.com/reports/260005"
     },
     {
-        "id": 9027,
         "cveid": "CVE-2017-10672",
         "link": "https://hackerone.com/reports/259390"
     },
     {
-        "id": 9033,
         "cveid": "CVE-2017-10784",
         "link": "https://hackerone.com/reports/223363"
     },
     {
-        "id": 9098,
         "cveid": "CVE-2017-0900",
         "link": "https://hackerone.com/reports/243003"
     },
     {
-        "id": 9099,
         "cveid": "CVE-2017-0901",
         "link": "https://hackerone.com/reports/243156"
     },
     {
-        "id": 9113,
         "cveid": "CVE-2017-0902",
         "link": "https://hackerone.com/reports/218088"
     },
     {
-        "id": 9188,
         "cveid": "CVE-2015-2301",
         "link": "https://hackerone.com/reports/131452"
     },
     {
-        "id": 9245,
         "cveid": "CVE-2017-3548",
         "link": "https://hackerone.com/reports/232330"
     },
     {
-        "id": 9248,
         "cveid": "CVE-2017-8295",
         "link": "https://hackerone.com/reports/226037"
     },
     {
-        "id": 9269,
         "cveid": "CVE-2017-7668",
         "link": "https://hackerone.com/reports/241610"
     },
     {
-        "id": 9297,
         "cveid": "CVE-2016-9472",
         "link": "https://hackerone.com/reports/170156"
     },
     {
-        "id": 9312,
         "cveid": "CVE-2013-0169",
         "link": "https://hackerone.com/reports/255041"
     },
     {
-        "id": 9313,
         "cveid": "CVE-2013-3587",
         "link": "https://hackerone.com/reports/254895"
     },
     {
-        "id": 9363,
         "cveid": "CVE-2020-8126",
         "link": "https://hackerone.com/reports/197958"
     },
     {
-        "id": 9398,
         "cveid": "CVE-2016-7434",
         "link": "https://hackerone.com/reports/147310"
     },
     {
-        "id": 9399,
         "cveid": "CVE-2017-9462",
         "link": "https://hackerone.com/reports/222020"
     },
     {
-        "id": 9404,
         "cveid": "CVE-2016-8743",
         "link": "https://hackerone.com/reports/244459"
     },
     {
-        "id": 9458,
         "cveid": "CVE-2017-5868",
         "link": "https://hackerone.com/reports/232327"
     },
     {
-        "id": 9461,
         "cveid": "CVE-2017-5638",
         "link": "https://hackerone.com/reports/212985"
     },
     {
-        "id": 9534,
         "cveid": "CVE-2014-0094",
         "link": "https://hackerone.com/reports/192567"
     },
     {
-        "id": 9550,
         "cveid": "CVE-2016-10034",
         "link": "https://hackerone.com/reports/228112"
     },
     {
-        "id": 9634,
         "cveid": "CVE-2017-0890",
         "link": "https://hackerone.com/reports/213227"
     },
     {
-        "id": 9639,
         "cveid": "CVE-2017-0894",
         "link": "https://hackerone.com/reports/218876"
     },
     {
-        "id": 9675,
         "cveid": "CVE-2017-5340",
         "link": "https://hackerone.com/reports/195950"
     },
     {
-        "id": 9680,
         "cveid": "CVE-2017-5638",
         "link": "https://hackerone.com/reports/212022"
     },
     {
-        "id": 9682,
         "cveid": "CVE-2015-5477",
         "link": "https://hackerone.com/reports/217381"
     },
     {
-        "id": 9686,
         "cveid": "CVE-2017-5638",
         "link": "https://hackerone.com/reports/213069"
     },
     {
-        "id": 9696,
         "cveid": "CVE-2016-7961",
         "link": "https://hackerone.com/reports/174069"
     },
     {
-        "id": 9706,
         "cveid": "CVE-2016-10161",
         "link": "https://hackerone.com/reports/200909"
     },
     {
-        "id": 9725,
         "cveid": "CVE-2016-6302",
         "link": "https://hackerone.com/reports/221787"
     },
     {
-        "id": 9726,
         "cveid": "CVE-2016-2180",
         "link": "https://hackerone.com/reports/221789"
     },
     {
-        "id": 9727,
         "cveid": "CVE-2016-6306",
         "link": "https://hackerone.com/reports/221790"
     },
     {
-        "id": 9728,
         "cveid": "CVE-2016-6307",
         "link": "https://hackerone.com/reports/221791"
     },
     {
-        "id": 9729,
         "cveid": "CVE-2016-6308",
         "link": "https://hackerone.com/reports/221792"
     },
     {
-        "id": 9730,
         "cveid": "CVE-2016-6303",
         "link": "https://hackerone.com/reports/221785"
     },
     {
-        "id": 9731,
         "cveid": "CVE-2016-2182",
         "link": "https://hackerone.com/reports/221788"
     },
     {
-        "id": 9841,
         "cveid": "CVE-2017-0891",
         "link": "https://hackerone.com/reports/216812"
     },
     {
-        "id": 9881,
         "cveid": "CVE-2017-0892",
         "link": "https://hackerone.com/reports/191979"
     },
     {
-        "id": 9884,
         "cveid": "CVE-2017-0895",
         "link": "https://hackerone.com/reports/203594"
     },
     {
-        "id": 9905,
         "cveid": "CVE-2016-2183",
         "link": "https://hackerone.com/reports/217431"
     },
     {
-        "id": 9943,
         "cveid": "CVE-2016-10033",
         "link": "https://hackerone.com/reports/212696"
     },
     {
-        "id": 10022,
         "cveid": "CVE-2016-6304",
         "link": "https://hackerone.com/reports/216840"
     },
     {
-        "id": 10031,
         "cveid": "CVE-2016-2161",
         "link": "https://hackerone.com/reports/194065"
     },
     {
-        "id": 10087,
         "cveid": "CVE-2016-3727",
         "link": "https://hackerone.com/reports/208566"
     },
     {
-        "id": 10088,
         "cveid": "CVE-2016-9463",
         "link": "https://hackerone.com/reports/148151"
     },
     {
-        "id": 10174,
         "cveid": "CVE-2016-2107",
         "link": "https://hackerone.com/reports/197253"
     },
     {
-        "id": 10220,
         "cveid": "CVE-2017-0887",
         "link": "https://hackerone.com/reports/173622"
     },
     {
-        "id": 10308,
         "cveid": "CVE-2016-2183",
         "link": "https://hackerone.com/reports/207457"
     },
     {
-        "id": 10327,
         "cveid": "CVE-2016-2107",
         "link": "https://hackerone.com/reports/194761"
     },
     {
-        "id": 10388,
         "cveid": "CVE-2017-0883",
         "link": "https://hackerone.com/reports/169680"
     },
     {
-        "id": 10389,
         "cveid": "CVE-2017-0885",
         "link": "https://hackerone.com/reports/174524"
     },
     {
-        "id": 10397,
         "cveid": "CVE-2017-3730",
         "link": "https://hackerone.com/reports/201346"
     },
     {
-        "id": 10438,
         "cveid": "CVE-2016-2183",
         "link": "https://hackerone.com/reports/199438"
     },
     {
-        "id": 10453,
         "cveid": "CVE-2016-2183",
         "link": "https://hackerone.com/reports/199445"
     },
     {
-        "id": 10537,
         "cveid": "CVE-2016-9473",
         "link": "https://hackerone.com/reports/175958"
     },
     {
-        "id": 10577,
         "cveid": "CVE-2016-10511",
         "link": "https://hackerone.com/reports/168538"
     },
     {
-        "id": 10659,
         "cveid": "CVE-2016-9469",
         "link": "https://hackerone.com/reports/186194"
     },
     {
-        "id": 10671,
         "cveid": "CVE-2016-9466",
         "link": "https://hackerone.com/reports/165686"
     },
     {
-        "id": 10672,
         "cveid": "CVE-2016-9465",
         "link": "https://hackerone.com/reports/163338"
     },
     {
-        "id": 10673,
         "cveid": "CVE-2016-9464",
         "link": "https://hackerone.com/reports/153905"
     },
     {
-        "id": 10677,
         "cveid": "CVE-2016-9468",
         "link": "https://hackerone.com/reports/149798"
     },
     {
-        "id": 10771,
         "cveid": "CVE-2016-9467",
         "link": "https://hackerone.com/reports/154827"
     },
     {
-        "id": 10781,
         "cveid": "CVE-2016-9086",
         "link": "https://hackerone.com/reports/178152"
     },
     {
-        "id": 10849,
         "cveid": "CVE-2014-0133",
         "link": "https://hackerone.com/reports/168485"
     },
     {
-        "id": 10955,
         "cveid": "CVE-2015-3197",
         "link": "https://hackerone.com/reports/166634"
     },
     {
-        "id": 10961,
         "cveid": "CVE-2016-2177",
         "link": "https://hackerone.com/reports/142472"
     },
     {
-        "id": 11057,
         "cveid": "CVE-2015-5622",
         "link": "https://hackerone.com/reports/151117"
     },
     {
-        "id": 11074,
         "cveid": "CVE-2016-0772",
         "link": "https://hackerone.com/reports/144782"
     },
     {
-        "id": 11116,
         "cveid": "CVE-2016-9462",
         "link": "https://hackerone.com/reports/146067"
     },
     {
-        "id": 11119,
         "cveid": "CVE-2016-9459",
         "link": "https://hackerone.com/reports/146278"
     },
     {
-        "id": 11150,
         "cveid": "CVE-2015-8935",
         "link": "https://hackerone.com/reports/145392"
     },
     {
-        "id": 11232,
         "cveid": "CVE-2016-4450",
         "link": "https://hackerone.com/reports/145409"
     },
     {
-        "id": 11281,
         "cveid": "CVE-2016-9461",
         "link": "https://hackerone.com/reports/145950"
     },
     {
-        "id": 11282,
         "cveid": "CVE-2016-7419",
         "link": "https://hackerone.com/reports/145355"
     },
     {
-        "id": 11283,
         "cveid": "CVE-2016-9460",
         "link": "https://hackerone.com/reports/145463"
     },
     {
-        "id": 11378,
         "cveid": "CVE-2015-2791",
         "link": "https://hackerone.com/reports/117080"
     },
     {
-        "id": 11536,
         "cveid": "CVE-2016-3714",
         "link": "https://hackerone.com/reports/143966"
     },
     {
-        "id": 11565,
         "cveid": "CVE-2016-0703",
         "link": "https://hackerone.com/reports/138179"
     },
     {
-        "id": 11566,
         "cveid": "CVE-2016-0704",
         "link": "https://hackerone.com/reports/138181"
     },
     {
-        "id": 11623,
         "cveid": "CVE-2016-2107",
         "link": "https://hackerone.com/reports/136986"
     },
     {
-        "id": 11675,
         "cveid": "CVE-2017-1000043",
         "link": "https://hackerone.com/reports/99245"
     },
     {
-        "id": 11676,
         "cveid": "CVE-2016-2109",
         "link": "https://hackerone.com/reports/134880"
     },
     {
-        "id": 11678,
         "cveid": "CVE-2016-2176",
         "link": "https://hackerone.com/reports/135946"
     },
     {
-        "id": 11679,
         "cveid": "CVE-2016-2106",
         "link": "https://hackerone.com/reports/135945"
     },
     {
-        "id": 11680,
         "cveid": "CVE-2016-2105",
         "link": "https://hackerone.com/reports/135944"
     },
     {
-        "id": 11762,
         "cveid": "CVE-2015-3193",
         "link": "https://hackerone.com/reports/128169"
     },
     {
-        "id": 11806,
         "cveid": "CVE-2017-1000042",
         "link": "https://hackerone.com/reports/54327"
     },
     {
-        "id": 11807,
         "cveid": "CVE-2016-0701",
         "link": "https://hackerone.com/reports/113288"
     },
     {
-        "id": 11810,
         "cveid": "CVE-2016-0797",
         "link": "https://hackerone.com/reports/119873"
     },
     {
-        "id": 11811,
         "cveid": "CVE-2016-0799",
         "link": "https://hackerone.com/reports/118855"
     },
     {
-        "id": 11855,
         "cveid": "CVE-2015-1782",
         "link": "https://hackerone.com/reports/115748"
     },
     {
-        "id": 11877,
         "cveid": "CVE-2016-0800",
         "link": "https://hackerone.com/reports/119808"
     },
     {
-        "id": 11922,
         "cveid": "CVE-2011-3280",
         "link": "https://hackerone.com/reports/116774"
     },
     {
-        "id": 11928,
         "cveid": "CVE-2015-9266",
         "link": "https://hackerone.com/reports/73480"
     },
     {
-        "id": 11931,
         "cveid": "CVE-2011-3192",
         "link": "https://hackerone.com/reports/112687"
     },
     {
-        "id": 11964,
-        "cveid": "CVE-2015-8968, CVE-2015-7545",
+        "cveid": "CVE-2015-8968",
         "link": "https://hackerone.com/reports/104465"
     },
     {
-        "id": 11965,
+        "cveid": "CVE-2015-7545",
+        "link": "https://hackerone.com/reports/104465"
+    },
+    {
         "cveid": "CVE-2015-8969",
         "link": "https://hackerone.com/reports/105190"
     },
     {
-        "id": 11967,
         "cveid": "CVE-2013-3587",
         "link": "https://hackerone.com/reports/111752"
     },
     {
-        "id": 11982,
         "cveid": "CVE-2016-1499",
         "link": "https://hackerone.com/reports/110655"
     },
     {
-        "id": 11991,
         "cveid": "CVE-2016-1501",
         "link": "https://hackerone.com/reports/85201"
     },
     {
-        "id": 11992,
         "cveid": "CVE-2016-1501",
         "link": "https://hackerone.com/reports/87505"
     },
     {
-        "id": 11997,
         "cveid": "CVE-2011-3192",
         "link": "https://hackerone.com/reports/88904"
     },
     {
-        "id": 12000,
         "cveid": "CVE-2015-3115",
         "link": "https://hackerone.com/reports/103787"
     },
     {
-        "id": 12039,
         "cveid": "CVE-2015-4643",
         "link": "https://hackerone.com/reports/104028"
     },
     {
-        "id": 12040,
         "cveid": "CVE-2015-4021",
         "link": "https://hackerone.com/reports/104027"
     },
     {
-        "id": 12041,
         "cveid": "CVE-2015-3307",
         "link": "https://hackerone.com/reports/104026"
     },
     {
-        "id": 12048,
         "cveid": "CVE-2015-6833",
         "link": "https://hackerone.com/reports/104019"
     },
     {
-        "id": 12049,
         "cveid": "CVE-2015-6831",
         "link": "https://hackerone.com/reports/104018"
     },
     {
-        "id": 12050,
         "cveid": "CVE-2015-6527",
         "link": "https://hackerone.com/reports/104017"
     },
     {
-        "id": 12051,
         "cveid": "CVE-2015-6832",
         "link": "https://hackerone.com/reports/104016"
     },
     {
-        "id": 12053,
         "cveid": "CVE-2014-3707",
         "link": "https://hackerone.com/reports/104014"
     },
     {
-        "id": 12054,
         "cveid": "CVE-2014-9705",
         "link": "https://hackerone.com/reports/104013"
     },
     {
-        "id": 12055,
         "cveid": "CVE-2014-3669",
         "link": "https://hackerone.com/reports/104012"
     },
     {
-        "id": 12056,
         "cveid": "CVE-2014-3668",
         "link": "https://hackerone.com/reports/104011"
     },
     {
-        "id": 12057,
         "cveid": "CVE-2015-6836",
         "link": "https://hackerone.com/reports/104010"
     },
     {
-        "id": 12059,
         "cveid": "CVE-2015-7804",
         "link": "https://hackerone.com/reports/104008"
     },
     {
-        "id": 12069,
         "cveid": "CVE-2015-6835",
         "link": "https://hackerone.com/reports/103998"
     },
     {
-        "id": 12070,
         "cveid": "CVE-2015-6834",
         "link": "https://hackerone.com/reports/103997"
     },
     {
-        "id": 12071,
         "cveid": "CVE-2015-6834",
         "link": "https://hackerone.com/reports/103996"
     },
     {
-        "id": 12072,
         "cveid": "CVE-2015-6834",
         "link": "https://hackerone.com/reports/103995"
     },
     {
-        "id": 12074,
         "cveid": "CVE-2015-3900",
         "link": "https://hackerone.com/reports/103993"
     },
     {
-        "id": 12076,
         "cveid": "CVE-2015-0228",
         "link": "https://hackerone.com/reports/103991"
     },
     {
-        "id": 12077,
         "cveid": "CVE-2015-7803",
         "link": "https://hackerone.com/reports/103990"
     },
     {
-        "id": 12188,
         "cveid": "CVE-2013-4710",
         "link": "https://hackerone.com/reports/87835"
     },
     {
-        "id": 12219,
         "cveid": "CVE-2015-5477",
         "link": "https://hackerone.com/reports/89097"
     },
     {
-        "id": 12233,
         "cveid": "CVE-2014-0160",
         "link": "https://hackerone.com/reports/49139"
     },
     {
-        "id": 12235,
         "cveid": "CVE-2014-0160",
         "link": "https://hackerone.com/reports/44294"
     },
     {
-        "id": 12294,
         "cveid": "CVE-2012-2386",
         "link": "https://hackerone.com/reports/5221"
     },
     {
-        "id": 12388,
         "cveid": "CVE-2014-8150",
         "link": "https://hackerone.com/reports/73242"
     },
     {
-        "id": 12389,
         "cveid": "CVE-2015-1788",
         "link": "https://hackerone.com/reports/73241"
     },
     {
-        "id": 12390,
         "cveid": "CVE-2015-4022",
         "link": "https://hackerone.com/reports/73240"
     },
     {
-        "id": 12391,
         "cveid": "CVE-2015-2331",
         "link": "https://hackerone.com/reports/73239"
     },
     {
-        "id": 12392,
         "cveid": "CVE-2015-2783",
         "link": "https://hackerone.com/reports/73238"
     },
     {
-        "id": 12393,
         "cveid": "CVE-2015-3329",
         "link": "https://hackerone.com/reports/73237"
     },
     {
-        "id": 12394,
         "cveid": "CVE-2015-0288",
         "link": "https://hackerone.com/reports/73236"
     },
     {
-        "id": 12395,
         "cveid": "CVE-2015-2787",
         "link": "https://hackerone.com/reports/73235"
     },
     {
-        "id": 12396,
         "cveid": "CVE-2014-9427",
         "link": "https://hackerone.com/reports/73234"
     },
     {
-        "id": 12417,
         "cveid": "CVE-2015-4459",
         "link": "https://hackerone.com/reports/66724"
     },
     {
-        "id": 12481,
         "cveid": "CVE-2015-0337",
         "link": "https://hackerone.com/reports/51265"
     },
     {
-        "id": 12521,
         "cveid": "CVE-2014-0224",
         "link": "https://hackerone.com/reports/50885"
     },
     {
-        "id": 12526,
         "cveid": "CVE-2014-3704",
         "link": "https://hackerone.com/reports/31756"
     },
     {
-        "id": 12547,
         "cveid": "CVE-2015-0204",
         "link": "https://hackerone.com/reports/50170"
     },
     {
-        "id": 12554,
         "cveid": "CVE-2015-0312",
         "link": "https://hackerone.com/reports/47227"
     },
     {
-        "id": 12555,
         "cveid": "CVE-2013-0634",
         "link": "https://hackerone.com/reports/47012"
     },
     {
-        "id": 12556,
         "cveid": "CVE-2015-0320",
         "link": "https://hackerone.com/reports/47234"
     },
     {
-        "id": 12557,
         "cveid": "CVE-2015-0315",
         "link": "https://hackerone.com/reports/47232"
     },
     {
-        "id": 12580,
         "cveid": "CVE-2014-0564",
         "link": "https://hackerone.com/reports/31408"
     },
     {
-        "id": 12581,
         "cveid": "CVE-2014-0553",
         "link": "https://hackerone.com/reports/30567"
     },
     {
-        "id": 12582,
         "cveid": "CVE-2014-8438",
         "link": "https://hackerone.com/reports/36279"
     },
     {
-        "id": 12604,
         "cveid": "CVE-2015-0059",
         "link": "https://hackerone.com/reports/48100"
     },
     {
-        "id": 12646,
         "cveid": "CVE-2014-7829",
         "link": "https://hackerone.com/reports/43440"
     },
     {
-        "id": 12673,
         "cveid": "CVE-2014-0160",
         "link": "https://hackerone.com/reports/32570"
     },
     {
-        "id": 12711,
         "cveid": "CVE-2014-3583",
         "link": "https://hackerone.com/reports/36264"
     },
     {
-        "id": 12740,
         "cveid": "CVE-2012-0814",
         "link": "https://hackerone.com/reports/24984"
     },
     {
-        "id": 12743,
         "cveid": "CVE-2014-0538",
         "link": "https://hackerone.com/reports/12497"
     },
     {
-        "id": 12744,
         "cveid": "CVE-2014-0554",
         "link": "https://hackerone.com/reports/27651"
     },
     {
-        "id": 12748,
         "cveid": "CVE-2014-6271",
         "link": "https://hackerone.com/reports/29839"
     },
     {
-        "id": 12773,
         "cveid": "CVE-2014-3483",
         "link": "https://hackerone.com/reports/28450"
     },
     {
-        "id": 12774,
         "cveid": "CVE-2014-3482",
         "link": "https://hackerone.com/reports/28449"
     },
     {
-        "id": 12775,
         "cveid": "CVE-2014-3515",
         "link": "https://hackerone.com/reports/28445"
     },
     {
-        "id": 12777,
         "cveid": "CVE-2014-3926",
         "link": "https://hackerone.com/reports/16330"
     },
     {
-        "id": 12848,
         "cveid": "CVE-2009-3555",
         "link": "https://hackerone.com/reports/5617"
     },
     {
-        "id": 12916,
         "cveid": "CVE-2014-0118",
         "link": "https://hackerone.com/reports/20861"
     },
     {
-        "id": 12987,
         "cveid": "CVE-2014-0535",
         "link": "https://hackerone.com/reports/15362"
     },
     {
-        "id": 13059,
         "cveid": "CVE-2014-4616",
         "link": "https://hackerone.com/reports/12297"
     },
     {
-        "id": 13198,
         "cveid": "CVE-2014-0160",
         "link": "https://hackerone.com/reports/6475"
     },
     {
-        "id": 13200,
         "cveid": "CVE-2014-0160",
         "link": "https://hackerone.com/reports/6626"
     },
     {
-        "id": 13203,
         "cveid": "CVE-2014-0503",
         "link": "https://hackerone.com/reports/6380"
     },
     {
-        "id": 13230,
         "cveid": "CVE-2014-0133",
         "link": "https://hackerone.com/reports/4690"
     },
     {
-        "id": 13231,
         "cveid": "CVE-2014-0088",
         "link": "https://hackerone.com/reports/4689"
     },
     {
-        "id": 13245,
         "cveid": "CVE-2014-0502",
         "link": "https://hackerone.com/reports/2170"
     },
     {
-        "id": 13250,
         "cveid": "CVE-2014-0491",
         "link": "https://hackerone.com/reports/2107"
     },
     {
-        "id": 13253,
         "cveid": "CVE-2017-0889",
         "link": "https://hackerone.com/reports/713"
     },
     {
-        "id": 13254,
         "cveid": "CVE-2013-7226",
         "link": "https://hackerone.com/reports/1356"
     },
     {
-        "id": 13260,
         "cveid": "CVE-2013-6420",
         "link": "https://hackerone.com/reports/523"
     },
     {
-        "id": 13261,
         "cveid": "CVE-2013-4548",
         "link": "https://hackerone.com/reports/500"
     },
     {
-        "id": 13262,
-        "cveid": "CVE-2013-4164, CVE-2009-0689",
+        "cveid": "CVE-2013-4164",
+        "link": "https://hackerone.com/reports/499"
+    },
+    {
+        "cveid": "CVE-2009-0689",
         "link": "https://hackerone.com/reports/499"
     }
 ]

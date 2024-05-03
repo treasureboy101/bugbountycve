@@ -137,11 +137,23 @@ def fetch():
         })
         i += 1
     driver.quit()
-    output_json = json.dumps(cve_results, indent=4)
+    cve_modified_results = []
+    for entry in cve_results:
+        if ", " in entry["cveid"]:
+            cve_ids = entry["cveid"].split(", ")            
+            for cve_id in cve_ids:
+                new_entry = {
+                    "cveid": cve_id,
+                    "link": entry["link"]
+                }
+                cve_modified_results.append(new_entry)
+        else:
+            cve_modified_results.append(entry)
+    output_json = json.dumps(cve_modified_results, indent=4)
     print(output_json)
-    cve_results.extend(existing_cve_data)
+    cve_modified_results.extend(existing_cve_data)
     with open('cve_output.json', 'w') as file:
-        json.dump(cve_results, file, indent=4)
+        json.dump(cve_modified_results, file, indent=4)
 
 
 if __name__ == '__main__':
