@@ -1,9 +1,8 @@
+import time
+import csv
+import json
 from selenium.webdriver import Chrome, ChromeOptions
 from selenium.webdriver.common.by import By
-import chromedriver_autoinstaller
-import csv,json,time
-
-chromedriver_autoinstaller.install()
 
 hacktivity_url = 'https://hackerone.com/hacktivity/overview'
 page_loading_timeout = 10
@@ -110,7 +109,7 @@ def fetch():
         if firstime:
             firstime = False
             time.sleep(3)
-        time.sleep(2)
+        time.sleep(5)
         try:
             cve_element = driver.find_element(By.CSS_SELECTOR,
                                               '.spec-cve-id-meta-item .metadata-item-value .daisy-link.routerlink')
