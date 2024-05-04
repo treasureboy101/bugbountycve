@@ -1,5 +1,29 @@
 [
     {
+        "cveid": "CVE-2021-20323",
+        "link": "https://hackerone.com/reports/2221104"
+    },
+    {
+        "cveid": "CVE-2020-3580",
+        "link": "https://hackerone.com/reports/2479161"
+    },
+    {
+        "cveid": "CVE-2022-35653",
+        "link": "https://hackerone.com/reports/2444032"
+    },
+    {
+        "cveid": "CVE-2024-30261",
+        "link": "https://hackerone.com/reports/2377760"
+    },
+    {
+        "cveid": "CVE-2024-30260",
+        "link": "https://hackerone.com/reports/2408074"
+    },
+    {
+        "cveid": "CVE-2024-27982",
+        "link": "https://hackerone.com/reports/2237099"
+    },
+    {
         "cveid": "CVE-2024-27983",
         "link": "https://hackerone.com/reports/2453328"
     },
