@@ -1,5 +1,9 @@
 [
     {
+        "cveid": "CVE-2023-24329",
+        "link": "https://hackerone.com/reports/2493548"
+    },
+    {
         "cveid": "CVE-2021-20323",
         "link": "https://hackerone.com/reports/2221104"
     },
